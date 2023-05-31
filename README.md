@@ -8,7 +8,7 @@ Sacra Doctrina
     * Theology of Culture
     * Hermeneutics
     * Revelation
-    * the doctrine of God
+    * the Doctrine of God
     * Christology
     * Pneumatology
 
