@@ -7,9 +7,9 @@ Sacra Doctrina
     * Prolegomena
     * Theology of Culture
     * Hermeneutics
-    * Revelation
-    * the Doctrine of God
-    * Christology
+    * [Revelation]:(Revelation.md)
+    * [the Doctrine of God]:(the Doctrine of God.md)
+    * [Christology]:(Christology.md)
     * Pneumatology
 
 * Historical Theology
