@@ -3,8 +3,8 @@ Sacra Doctrina
 
 * Biblical Theology
     * Structure Analysis
-        * [Job.md](./Job.md)
-        * [Ecclesiastes.md](./Ecclesiastes.md)
+        * [Job](./Job.md)
+        * [Ecclesiastes](./Ecclesiastes.md)
 * Systematic Theology
     * Theology of Culture
     * Hermeneutics
