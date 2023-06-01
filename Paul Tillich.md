@@ -30,6 +30,7 @@
 
 "Since all biblical texts are formulated in androcentric language and reflect patriarchal social structures, a feminist critical interpretation begins with a hermeneutics of suspicion rather than with a hermeneutics of consent and affirmation. It develops a hermeneutics of proclamation rather than a hermeneutics of historical factualness, because the Bible still functions as Holy Scripture in Christian communities today. Rather than reducing the liberating impulse of the Bible to a feminist principle or one feminist biblical tradition, it develops a hermeneutics of remembrance that moves from biblical texts about women to the reconstruction of women’s history. Finally, this model moves from a hermeneutics of disinterested distance to a hermeneutics of creative actualization that involves the church of women in the imaginative articulation of women’s biblical story and its ongoing history and community."[^14]
 
+
 [^1]: Victor Nuovo, Visionary Science: A Translation of Tillich’s “On the Idea of a Theology of Culture” with an Interpretive Essay (Detroit: Wayne State University Press, 1987), 23-24.
 [^2]: Tillich, Theology of Culture (1959), 7-8.
 [^3]: Tillich, Theology of Culture (1959), 42.

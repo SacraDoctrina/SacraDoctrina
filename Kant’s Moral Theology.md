@@ -37,6 +37,7 @@ And what shadow of an argument ... can you produce from your hypothesis to prove
 
 "Now the human being has a secure foundation on which he can build his faith in God. ... It [God] must be omnipotent, so that it can arrange the whole of nature to accord with the way I act regarding my morality. It must even be holy and just for otherwise I would have no hope that the fulfillment of my duties would be well-pleasing to it. ... Thus he derives theology from morality, yet not from speculative but from practical evidence; i.e. not though knowledge but from faith. ... Hence the existence of a wise governor of the world is a necessary postulate of practical reason."[^15]
 
+
 [^1]: An Inquiry Concerning Human Understanding, C. H. Hendel ed. (New York, 1955), 138.
 [^2]: An Inquiry Concerning Human Understanding, C. H. Hendel ed. (New York, 1955), 145-146.
 [^3]: An Inquiry Concerning Human Understanding, C. H. Hendel ed. (New York, 1955), 153.

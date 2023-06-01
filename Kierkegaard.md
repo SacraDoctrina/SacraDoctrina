@@ -8,6 +8,7 @@
 
 "The fact that the eternal one came into existence in time is not a something which has to be tested in time, not something which men are to test, but is the paradox by which men are to be tested."[^4]
 
+
 [^1]: Training in Christianity, trans. Walter Lowrie (Princeton, 1952), 39.
 [^2]: Kierkegaard, Philosophical Fragments (Princeton, 1985), 63.
 [^3]: Kierkegaard, Philosophical Fragments (Princeton, 1985), 14-15.

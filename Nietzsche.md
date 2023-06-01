@@ -12,6 +12,7 @@
 
 "I beseech you, my brothers, remain faithful to the earth and do not believe those who speak to you of other worldly hopes."[^5]
 
+
 [^1]: Nietzsche, On the Genealogy of Morals (New York, 1967), 34.
 [^2]: Nietzsche, The Antichrist: A Curse on Christianity. Livingston, 1:408.
 [^3]: Nietzsche, Thus Spoke Zarathustra. Livingston, 1:408.

@@ -9,7 +9,6 @@
 It is by living - no, not living, but by dying and giving ourselves up to hell that we become theologians, not by understanding, reading, and speculating.[^3]
 
 
-
 [^1]: Maurice O’C. Walshe, The Complete Mystical Works of Meister Eckhart (A Herder & Herder Book, 2009), 422.
 [^2]: Francis S. Fiorenza, Foundational Theology: Jesus and Church (New York: Crossroad, 1992), 288.
 [^3]: Operationes in Psalmos (1519-21), in WA 5:163.28-29 (trans. Bayer, Theology the Lutheran Way, 23).

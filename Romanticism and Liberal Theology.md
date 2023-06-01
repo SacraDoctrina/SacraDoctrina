@@ -19,6 +19,7 @@ The transference of the idea of God to any perceptible object, unless one is all
 
 "Christian doctrines are accounts of the Christian religious affections set forth in speech. ... Thus this communication is, on the one hand, something different from the piety itself, though the latter cannot, any more than anything else which is human, be conceived entirely separated from all communication. But, on the other hand, the doctrines in all their forms have their ultimate ground so exclusively in the emotions of the religious self-consciousness, that where these do not exist the doctrines cannot arise."
 
+
 [^1]: J. H. Randall, Jr., The Making of the Modern Mind (New York, 1926), 395.
 [^2]: Claude Welch, Protestant Thought in the Nineteenth Century, Volume 1: 1799-1870 (New Haven: Yale University Press, 1972), 66.
 [^3]: F. Schleiermacher, The Christian Faith (Edinburgh: T. & T. Clark, 1989), 5.
