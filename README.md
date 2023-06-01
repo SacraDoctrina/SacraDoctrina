@@ -2,7 +2,7 @@
 Sacra Doctrina
 
 * Biblical Theology
-
+    * Structure Analysis
 * Systematic Theology
     * Theology of Culture
     * Hermeneutics
