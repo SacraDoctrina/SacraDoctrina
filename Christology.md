@@ -84,6 +84,8 @@ mythical world-view[^22]
 
 “c. Assertion of the historicity of an event does not mean that its facticity is so sure that there can no longer be any dispute regarding it. Many statements of historical fact are actually debatable. … In the case of the resurrection of Jesus, all Christians must realize that the facticity of the event will be contested right up to the eschatological consummation of the world because its uniqueness transcends an understanding of reality that is oriented only to this passing world and because the new reality that has come in the resurrection of Jesus has not yet universally and definitively manifested itself.”[^35]
 
+“d. Our judgement regarding the historicity of the resurrection of Jesus depends not only on examining the individual data (and the related reconstruction of the event) but also on our understanding of reality, of what we regard as possible or impossible prior to any evaluation of the details. In this regard Paul is right that if we do not think the dead can rise in any circumstances, then we cannot regard the resurrection of Jesus as a fact (1 Cor. 15:13), no matter how strong the evidence may be that supports it. We must concede, however, that a judgment of this type rests on a prior dogmatic decision and does not deserve to be called critical (in the sense of the evaluating of the transmitted texts).”[^36]
+
 
 [^1]: Alister E. McGrath, Christian Theology, 2nd edition (Oxford: Blackwell, 1997), 390-412.
 [^2]: McGrath, Christian Theology, 391-392.
@@ -120,3 +122,4 @@ mythical world-view[^22]
 [^33]: Pannenberg, Systematic Theology, vol. 2, 360-361.
 [^34]: Pannenberg, Systematic Theology, vol. 2, 361.
 [^35]: Pannenberg, Systematic Theology, vol. 2, 361.
+[^36]: Pannenberg, Systematic Theology, vol. 2, 362.
