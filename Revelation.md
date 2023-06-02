@@ -59,23 +59,36 @@ heterodoxy = hetero / wrong + doxa / doctrine
     * cognitivist
     * the correspondence theory of truth
     * 总结
-    时间：preliberal orthodoxy
-    代表人物：Thomas Aquinas
-    哲学世界观：pre-Kantian
-    核心价值观：object
+        * 时间：preliberal orthodoxy
+        * 代表人物：Thomas Aquinas
+        * 哲学世界观：pre-Kantian
+        * 核心价值观：object
 
 * experiential-expressive model
     * liberal model
     * 感情表达
     * Bernard Lonergan的总结
     * 总结
-    时期：modern liberal theology
-    代表人物：Schleiermacher, Lonergan, Rahner, Tillich, Rudolf Otto, David Tracy, etc.
-    哲学世界观：post-Kantian, pre-Wittgenstein
-    核心价值观：subject; theKantian turn to the subject
+        * 时期：modern liberal theology
+        * 代表人物：Schleiermacher, Lonergan, Rahner, Tillich, Rudolf Otto, David Tracy, etc.
+        * 哲学世界观：post-Kantian, but pre-Wittgenstein
+        * 核心价值观：subject; theKantian turn to the subject
 
-* Cultural-linguistic model
-    
+* cultural-linguistic model
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 总结
+        * 时期：postliberal theology
+        * 代表人物：George Lindbeck, Hans Frei, Stanley Hauerwas, Ronald Thiemann, Will Willimon, William Placher, William Werpenowski, Kathryn Tanner, etc.
+        * 哲学世界观：post-Kantian, and post-Wittgenstein
+        * 核心价值观：linguistic community; the Wittgensteinian tuen to language
+
 ## 理性的完成
 
 ## 历史
