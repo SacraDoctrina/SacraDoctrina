@@ -30,11 +30,11 @@ Tillich: “Christianity claims to be based on the revelation in Jesus as the Ch
 
     * Hans Urs von Balthasar
     
-    "It is easy to note the differences between the person affected by natural beauty and the one seized by the beauty of Christ; it is less easy to see what they have in common without reducing their experiences to psychological categories."[^3]
+"It is easy to note the differences between the person affected by natural beauty and the one seized by the beauty of Christ; it is less easy to see what they have in common without reducing their experiences to psychological categories."[^3]
 
-    “We can post as many question marks and warning signs as we will all along the length and breadth of this analogy, but they will only apply to the ever-present possibility of misusing the analogy, and not to its rightful use.”(ibid., 36-7) “Even a dangerous road remains a road ...”(ibid., 38)
-    
-    “The beautiful is never a mere flat surface; it always has heights and depths.”(ibid., 604)
+“We can post as many question marks and warning signs as we will all along the length and breadth of this analogy, but they will only apply to the ever-present possibility of misusing the analogy, and not to its rightful use.”(ibid., 36-7) “Even a dangerous road remains a road ...”(ibid., 38)
+
+“The beautiful is never a mere flat surface; it always has heights and depths.”(ibid., 604)
     * Jonathan Edwards
 
 ## 圣经
