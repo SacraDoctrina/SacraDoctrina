@@ -28,17 +28,17 @@ Tillich: “Christianity claims to be based on the revelation in Jesus as the Ch
 
 * 美的类比
 
-    * Hans Urs von Balthasar
+Hans Urs von Balthasar:
     
-    "It is easy to note the differences between the person affected by natural beauty and the one seized by the beauty of Christ; it is less easy to see what they have in common without reducing their experiences to psychological categories."[^3]
+"It is easy to note the differences between the person affected by natural beauty and the one seized by the beauty of Christ; it is less easy to see what they have in common without reducing their experiences to psychological categories."[^3]
 
-    “We can post as many question marks and warning signs as we will all along the length and breadth of this analogy, but they will only apply to the ever-present possibility of misusing the analogy, and not to its rightful use.”(ibid., 36-7) “Even a dangerous road remains a road ...”(ibid., 38)
+“We can post as many question marks and warning signs as we will all along the length and breadth of this analogy, but they will only apply to the ever-present possibility of misusing the analogy, and not to its rightful use.”(ibid., 36-7) “Even a dangerous road remains a road ...”(ibid., 38)
 
-    “The beautiful is never a mere flat surface; it always has heights and depths.”(ibid., 604)
+“The beautiful is never a mere flat surface; it always has heights and depths.”(ibid., 604)
 
-    * Jonathan Edwards
+Jonathan Edwards:
 
-    “There is a general and particular beauty. By a particular beauty, I mean that by which a thing appears beautiful when considered only with regard to its connection with, and tendency to, some particular things within a limited, and as it were, a private sphere. And a general beauty is that by which a thing appears beautiful when viewed most perfectly, comprehensively and universally, with regard to all its tendencies, and its connections with every thing to which it stands related. ... That only, therefore, is what I mean by true virtue, is beautiful by a general beauty, or beautiful in a comprehensive view, as it is in itself, and as related to every thing with which it stands connected. ... True virtue most essentially consists in benevolence to being in general.”[^4]
+“There is a general and particular beauty. By a particular beauty, I mean that by which a thing appears beautiful when considered only with regard to its connection with, and tendency to, some particular things within a limited, and as it were, a private sphere. And a general beauty is that by which a thing appears beautiful when viewed most perfectly, comprehensively and universally, with regard to all its tendencies, and its connections with every thing to which it stands related. ... That only, therefore, is what I mean by true virtue, is beautiful by a general beauty, or beautiful in a comprehensive view, as it is in itself, and as related to every thing with which it stands connected. ... True virtue most essentially consists in benevolence to being in general.”[^4]
 
 ## 圣经
 
