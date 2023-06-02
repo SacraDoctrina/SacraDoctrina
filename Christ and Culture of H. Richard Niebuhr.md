@@ -28,7 +28,9 @@
 
 3. "Christ above Culture" type
     1. 主张：synthesists
+
     "gratia non tollat naturam sed perficiat"[^6]
+    
     2. Christ above Culture
     3. 圣经根据：该撒的物当归给该撒；神的物当归给神。(太 22:21)
     4. 代表人物：Justin Martyr, Clement of Alexandria, Thomas Aquinas, etc.
