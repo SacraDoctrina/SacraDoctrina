@@ -91,7 +91,17 @@ heterodoxy = hetero / wrong + doxa / doctrine
 
 ## 理性的完成
 
+* autonomy, heteronomy, theonomy
+    * autonomy
+    * heteronomy
+    * theonomy
+* theonomy
+    * ecstatic reason
+    * ontological shoch = musterium tremendum + musterium fascinosum
+
 ## 历史
+* Hegel
+* Pannenberg
 
 ## 结论：对上帝真理的渴望并不局限于过去的文字。
 
