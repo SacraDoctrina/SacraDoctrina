@@ -4,7 +4,7 @@ Sacra Doctrina
 * Biblical Theology
     * Structure Analysis
         * [约伯记](./Structure%20Analysis/Job.md)
-        * [传道书](.//Structure%20Analysis/Ecclesiastes.mdEcclesiastes.md)
+        * [传道书](.//Structure%20Analysis/Ecclesiastes.md)
 * Systematic Theology
     * Theology of Culture
         * [Niebuhr的文化神学](./Christ%20and%20Culture%20of%20H.%20Richard%20Niebuhr.md)
