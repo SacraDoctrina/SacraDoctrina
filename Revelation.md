@@ -4,7 +4,7 @@
 
 * 内容与主体的一致
 
-Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Himself as the Lord and according to Scripture this signifies for the concept of revelation that God Himself in unimpaired unity yet also in unimpaired distinction is Revealer, Revelation, and Revealedness.”(Church Dogmatics, I.1, 295)
+Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Himself as the Lord and according to Scripture this signifies for the concept of revelation that God Himself in unimpaired unity yet also in unimpaired distinction is **Revealer**, **Revelation**, and **Revealedness**.”(Church Dogmatics, I.1, 295)
 
 * 启示与迷信的区分
 
