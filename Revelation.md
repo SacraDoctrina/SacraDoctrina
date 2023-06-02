@@ -8,14 +8,31 @@ Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Hi
 
 * 启示与迷信的区分
 
+* 启示的领域(locus, source)
+
+* 耶稣基督与圣灵
+* 自然的秩序与美
+* 圣经
+* 教义
+* 理性
+* 历史
+
 ## 特殊启示与一般启示
 
-终极启示与最后启示的区别
+* 终极启示与最后启示的区别
+
 Tillich: “Christianity claims to be based on the revelation in Jesus as the Christ as the final revelation. … The word “final” in the phrase “final revelation” means more than last. Christianity often has affirmed, and certainly should affirm, that there is continuous revelation in the history of the church. In this sense the final revelation is not the last. … It means the decisive, fulfilling, unsurpassable revelation, that which is the criterion of all the others.”[^1]
+
+* 罗马书 1:19-20
 
 “There is a general and particular beauty. By a particular beauty, I mean that by which a thing appears beautiful when considered only with regard to its connection with, and tendency to, some particular things within a limited, and as it were, a private sphere. And a general beauty is that by which a thing appears beautiful when viewed most perfectly, comprehensively and universally, with regard to all its tendencies, and its connections with every thing to which it stands related. … That only, therefore, is what I mean by true virtue, is beautiful by a general beauty, or beautiful in a comprehensive view, as it is in itself, and as related to every thing with which it stands connected. … True virtue most essentially consists in benevolence to being in general.” [^2]
 
-## 圣经作为启示
+* 美的类比
+
+    * Hans Urs von Balthasar
+    * Jonathan Edwards
+
+## 圣经
 
 * 美国普林斯顿学派原教旨主义圣经观
 主张：Plenary verbal inspiration
@@ -28,6 +45,14 @@ Hodge: "Faith in the Scriptures as the word of God is faith in their **plenary i
 "It [Inspiration] means, first, that all the books of Scriptures are equally inspired. All alike are infallible in what they teach. And secondly, that inspiration extends to all the contents of these several books. It is not confined to moral and religious truths, but extends to the statements of facts, whether scientific, historical, or geographical. It is not confined to those facts the importance of which is obvious, or which are involved in matters of doctrine. It extends to everything which any sacred writer asserts to be true."[^3]
 
 Karl Barth, Church Dogmatics, I.1, 120-121: “We have been speaking of three different forms of the Word of God and not of three different Words of God. ... It is one and the same whether we understand it as revelation, Bible, or proclamation. ... As the Bible and proclamation become God’s Word in virtue of the actuality of revelation they are God’s Word: the one Word of God within which there can be neither a more or a less. ... The first, revelation, is the form that underlies the other two. But it is the very one that never meets us anywhere in abstract form. We know it only indirectly, from Scripture and proclamation. The direct Word of God meets us only in this twofold mediacy. .... There is only one analogy to this doctrine of the Word of God. ... This is the doctrine of the triunity of God. In the fact that we can substitute for revelation, Scripture and proclamation the names of the divine persons Father, Son and Holy Spirit and vice versa ...”
+
+## 教义
+
+## 理性的完成
+
+## 历史
+
+## 结论：对上帝真理的渴望并不局限于过去的文字。
 
 
 [^1]: Paul Tillich, Systematic Theology, vol. 1 (Chicago: University of Chicago Press, 1951), 132-133.
