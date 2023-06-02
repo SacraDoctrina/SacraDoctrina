@@ -7,7 +7,7 @@ Sacra Doctrina
         * [传道书](./Ecclesiastes.md)
 * Systematic Theology
     * Theology of Culture
-        * [Christ and Culture of H. Richard Niebuhr](./Christ%20and%20Culture%20of%20H.%20Richard%20Niebuhr.md)
+        * [Niebuhr的文化神学](./Christ%20and%20Culture%20of%20H.%20Richard%20Niebuhr.md)
     * Hermeneutics
     * Dogmatics
         * Prolegomena
