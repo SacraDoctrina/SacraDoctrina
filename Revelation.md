@@ -4,18 +4,17 @@
 
 * 内容与主体的一致
 
-Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Himself as the Lord and according to Scripture this signifies for the concept of revelation that God Himself in unimpaired unity yet also in unimpaired distinction is **Revealer**, **Revelation**, and **Revealedness**.”(Church Dogmatics, I.1, 295)
+Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Himself as the Lord and according to Scripture this signifies for the concept of revelation that **God Himself** in unimpaired unity yet also in unimpaired distinction is **Revealer**, **Revelation**, and **Revealedness**.”(Church Dogmatics, I.1, 295)
 
 * 启示与迷信的区分
 
 * 启示的领域(locus, source)
-
-1. 耶稣基督与圣灵
-2. 自然的秩序与美
-3. 圣经
-4. 教义
-5. 理性
-6. 历史
+    1. 耶稣基督与圣灵
+    2. 自然的秩序与美
+    3. 圣经
+    4. 教义
+    5. 理性
+    6. 历史
 
 ## 特殊启示与一般启示
 
@@ -30,6 +29,10 @@ Tillich: “Christianity claims to be based on the revelation in Jesus as the Ch
 * 美的类比
 
     * Hans Urs von Balthasar
+    "It is easy to note the differences between the person affected by natural beauty and the one seized by the beauty of Christ; it is less easy to see what they have in common without reducing their experiences to psychological categories."[^3]
+
+    “We can post as many question marks and warning signs as we will all along the length and breadth of this analogy, but they will only apply to the ever-present possibility of misusing the analogy, and not to its rightful use.”(ibid., 36-7) “Even a dangerous road remains a road ...”(ibid., 38)
+    “The beautiful is never a mere flat surface; it always has heights and depths.”(ibid., 604)
     * Jonathan Edwards
 
 ## 圣经
