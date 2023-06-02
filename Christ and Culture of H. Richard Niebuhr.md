@@ -30,7 +30,7 @@
     1. 主张：synthesists
 
     "gratia non tollat naturam sed perficiat"[^6]
-    
+
     2. Christ above Culture
     3. 圣经根据：该撒的物当归给该撒；神的物当归给神。(太 22:21)
     4. 代表人物：Justin Martyr, Clement of Alexandria, Thomas Aquinas, etc.
@@ -66,8 +66,16 @@
 
     6. Niebuhr对此类型的批判：没有！为什么没有？
 
+6. 结论与反思
 
+Our examination of the typical answers Christians have given to their enduring problem is unconcluded and inconclusive. It could be indefinitely extended. ... Yet it must be evident that neither extension nor refinement of study could bring us to the conclusive result that would enable us to say, ‘This is the Christian answer’.[^13]
 
+* Theological Imagination
+    * Culture against Christ: Marx, Feuerbach, Freud
+    * Christ and Culture having no relation: Wittgenstein’s different language game
+    * Culture above Christ: deism, Lessing (Christianity as a stage of humanity’s religious development)
+    * Culture and Christ in happy paradox: M. Weber’s analysis of Protestantism 
+    * Culture transforming Christ: feminism, religious pluralism, homosexuality
 
 
 [^1]: H. Richard Niebuhr, Christ and Culture (New York: Harper Torchbooks, 1951), 52.
@@ -80,3 +88,4 @@
 [^9]: Niebuhr, Christ and Culture, 171-172.
 [^10]: Niebuhr, Christ and Culture, 188.
 [^11]: Niebuhr, Christ and Culture, 195.
+[^13]: Niebuhr, Christ and Culture, 231.
