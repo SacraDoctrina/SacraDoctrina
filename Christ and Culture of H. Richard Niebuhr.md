@@ -8,6 +8,7 @@
     5. Niebuhr的解释
 
     The conflict of the believer is not with nature but with culture, for it is in culture that sin chiefly resides. Tertullian comes very close to the though that original sin is transmitted through society, and that if it were not for the vicious customs that surround a child form its birth and for its artificial training its soul would remain good.[^1]
+    
     6. Niebuhr的批判
 
     The knottiest theological problem raised by the Christ-against-culture movement is the problem of the relation of Jesus Christ to the Creator of nature and Governor of history as well as to the Spirit immanent in creation and in the Christian community.[^2]
