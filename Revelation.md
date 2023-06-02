@@ -10,12 +10,12 @@ Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Hi
 
 * 启示的领域(locus, source)
 
-* 耶稣基督与圣灵
-* 自然的秩序与美
-* 圣经
-* 教义
-* 理性
-* 历史
+1. 耶稣基督与圣灵
+2. 自然的秩序与美
+3. 圣经
+4. 教义
+5. 理性
+6. 历史
 
 ## 特殊启示与一般启示
 
