@@ -48,6 +48,34 @@ Karl Barth, Church Dogmatics, I.1, 120-121: “We have been speaking of three di
 
 ## 教义
 
+orthodoxy = right + doxa / doctrine
+heterodoxy = hetero / wrong + doxa / doctrine
+
+1. propositional model
+2. experiential-expressive model
+3. cultural-linguistic model
+
+* propositional model
+    * cognitivist
+    * the correspondence theory of truth
+    * 总结
+    时间：preliberal orthodoxy
+    代表人物：Thomas Aquinas
+    哲学世界观：pre-Kantian
+    核心价值观：object
+
+* experiential-expressive model
+    * liberal model
+    * 感情表达
+    * Bernard Lonergan的总结
+    * 总结
+    时期：modern liberal theology
+    代表人物：Schleiermacher, Lonergan, Rahner, Tillich, Rudolf Otto, David Tracy, etc.
+    哲学世界观：post-Kantian, pre-Wittgenstein
+    核心价值观：subject; theKantian turn to the subject
+
+* Cultural-linguistic model
+    
 ## 理性的完成
 
 ## 历史
