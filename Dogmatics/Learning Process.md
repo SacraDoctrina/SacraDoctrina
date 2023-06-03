@@ -57,12 +57,12 @@ Theology as a learning process
         * Harnack
 
         “If, however, we take a general view of Jesus’ teaching, we shall see that it may be grouped under three heads. ...  
-        Firstly, the kingdom of God and its coming.  
-        Secondly, God the Father and the infinite value of the human soul.  
-        Thirdly, the higher righteousness and the commandment of love.”[^9]
+            Firstly, the kingdom of God and its coming.  
+            Secondly, God the Father and the infinite value of the human soul.  
+            Thirdly, the higher righteousness and the commandment of love.”[^9]
 
         * Karl Barth
-        
+
         “My reply is that, if I have a system, that is limited to a recognition of what Kierkegaard called the ‘infinite qualitative distinction’ between time and eternity. ... ‘God is in heaven, and thou art on earth.’ The relation between such a God and such a man ... is for me the theme of the Bible and the essence of philosophy. Philosophers name this KRISIS of human perception – the Prime Cause: the Bible beholds at the same cross-roads – the figure of Jesus Christ.”[^10]
 
         * Friedrich Schleiermacher
