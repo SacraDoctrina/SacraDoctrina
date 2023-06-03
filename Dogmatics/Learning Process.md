@@ -5,11 +5,11 @@ Theology as a learning process
     * Anselm (c. 1033-1109): Faith seeking understanding (fides quaerens intellectum)[^1]
 
     * Docgatics
-    
-    doctrina, didache(New Testament): Matthew 7:28-29; Mark 1:27; John 7:16; Romans 6:17; Titus 1:9; 2:1; 1 Tim 1:10; 2 Tim 4:3; 
-    Augustine of Hippo: "De Doctrina Christiana"
-    Melanchton: "doctrina evangelii"
-    Thomas Aquinas: "sacra doctrina" 
+
+    doctrina, didache(New Testament): Matthew 7:28-29; Mark 1:27; John 7:16; Romans 6:17; Titus 1:9; 2:1; 1 Tim 1:10; 2 Tim 4:3;  
+    Augustine of Hippo: "De Doctrina Christiana"  
+    Melanchton: "doctrina evangelii"  
+    Thomas Aquinas: "sacra doctrina". 
 
     Pannenberg: “... Christian doctrine is from first to last a historical construct. Its content rests on the historical revelation of God in the historical figure of Jesus Christ and on the precise evaluation, by historical interpretation alone, of the testimony that early Christian proclamation gives to this figure.”[^2]
 
