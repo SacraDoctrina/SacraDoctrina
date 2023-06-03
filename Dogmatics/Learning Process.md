@@ -57,9 +57,9 @@ Theology as a learning process
         * Harnack
 
         “If, however, we take a general view of Jesus’ teaching, we shall see that it may be grouped under three heads. ...  
-            Firstly, the kingdom of God and its coming.  
-            Secondly, God the Father and the infinite value of the human soul.  
-            Thirdly, the higher righteousness and the commandment of love.”[^9]
+        Firstly, the kingdom of God and its coming.  
+        Secondly, God the Father and the infinite value of the human soul.  
+        Thirdly, the higher righteousness and the commandment of love.”[^9]
 
         * Karl Barth
 
