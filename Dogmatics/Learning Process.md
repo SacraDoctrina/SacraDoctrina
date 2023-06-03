@@ -63,15 +63,15 @@ Theology as a learning process
 
         * Karl Barth: eisegesis vs. exegesis
 
-        “My reply is that, if I have a system, that is limited to a recognition of what Kierkegaard called the ‘infinite qualitative distinction’ between time and eternity. ... ‘God is in heaven, and thou art on earth.’ The relation between such a God and such a man ... is for me the theme of the Bible and the essence of philosophy. Philosophers name this KRISIS of human perception – the Prime Cause: the Bible beholds at the same cross-roads – the figure of Jesus Christ.”[^10]
+        “My reply is that, if I have a system, that is limited to a recognition of what **Kierkegaard** called the **‘infinite qualitative distinction’ between time and eternity**. ... **‘God is in heaven, and thou art on earth.’** The relation between such a God and such a man ... is for me the theme of the Bible and the essence of philosophy. Philosophers name this KRISIS of human perception – the Prime Cause: the Bible beholds at the same cross-roads – the figure of Jesus Christ.”[^10]
 
         * Friedrich Schleiermacher
 
             1. authorial intention:
 
-            Schleiermacher: “The task [of hermeneutics] is this, to understand the discourse just as well and even better than its creator.”[^11]
+            Schleiermacher: “**The task [of hermeneutics] is this, to understand the discourse just as well and even better than its creator.**”[^11]
 
-            Schleiermacher: “One must keep in mind that what was written was often written in a different day and age from the one in which the interpreter lives; it is the primary task of interpretation not to understand an ancient text in view of modern thinking, but to rediscover the original relationship between the writer and his audience.”[^12]
+            Schleiermacher: “One must keep in mind that what was written was often written in a different day and age from the one in which the interpreter lives; **it is the primary task of interpretation not to understand an ancient text in view of modern thinking, but to rediscover the original relationship between the writer and his audience.**”[^12]
 
             2. Grammatical Interpretation + Psychological Interpretation
 
@@ -87,7 +87,7 @@ Theology as a learning process
 
             * Rudolf Bultmann: Voraus-setzunglose Exegese Kann esnich t geben
 
-            “... no exegesis is without presuppositions, inasmuch as the exegete is not a tabula rasa, but on the contrary, approaches the text with specific questions or with a specific way of raising questions and thus has a certain idea of the subject matter with which the text is concerned.”[^14]
+            “... no exegesis is without presuppositions, inasmuch as the exegete is **not a tabula rasa**, but on the contrary, approaches the text with specific questions or with a specific way of raising questions and thus has a certain idea of the subject matter with which the text is concerned.”[^14]
 
     * Dialog Model
 
@@ -105,7 +105,22 @@ Theology as a learning process
 
         “It is the task of apologetic theology to prove that the Christian claim also has validity from the point of view of those outside the theological circle. Apologetic theology must show that trends which are immanent in all religions and cultures move toward the Christian answer. This refers both to doctrines and to the theological interpretation of theology.”[^18]
 
+        * Challenges to the dialog model: 
+            1. The challenge of feminism theology
+
+            2. Critique of Correlation by Francis S. Fiorenza
+
+            “The method of correlation does not sufficiently take into account the need for a critique of tradition. The critique I refer to is not simply a matter of criticizing the formulations of tradition in order that the underlying experience or affirmations of the tradition might more readily shine forth. Rather this critique is one that reexamines the experiences and affirmations themselves.”[^19]
+
     * Raft Model: Culture is an essential element of theology
+
+        * the Bible, the interpreter, culture
+
+        * Theology is not 'building a pyramid' but 'building a raft'.
+
+        Francis S. Fiorenza: “There are no secure, clean and definitive protocol sentences that can be made the starting-point of a science. Philosophers are on a ship on the open sea. They have to constantly rebuild the ship without having the opportunity to arrive in a port and to put the ship in dry dock. Instead amidst the waves of the sea, they have to take apart the ship and rebuilt it out of its own planks. Recent discussions on foundationalism have ... changed the ship into a raft. Against the metaphor of knowledge as a pyramid in which one stone is laid upon another stone, the present situation is described as that of a raft upon the sea.”[^20]
+
+        * "Truth is a verb, not a noun; it is an event, not a thing."[^21]
 
 
 [^1]: Ian Logan, Reading Anselm’s Proslogion: The History of Anselm’s Arguments and its Significance Today (Ashgate Publishing, Burlington, VT: Ashgate, 2009), 85.
@@ -129,3 +144,6 @@ Ricoeur (Albany: SUNY Press, 1990), 93.
 [^17]: Paul Tillich, Systematic Theology, vol. 1 (Chicago: The University of Chicago Press,
 1951), 8.
 [^18]: Paul Tillich, Systematic Theology, vol. 1 (Chicago: The University of Chicago Press, 1951), 15.
+[^19]: Francis S. Fiorenza, “Systematic Theology: Task and Method,” F. S. Fiorenza and J. P. Gavin eds., Systematic Theology: Roman Catholic Perspectives (Minneapolis: Fortress Press, 1991), 61.
+[^20]: Francis S. Fiorenza, Foundational Theology: Jesus and Church (New York: Crossroad, 1992), 288.
+[^21]: Sohn, Hohyun
