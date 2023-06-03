@@ -10,7 +10,7 @@ Sacra Doctrina
         * [Niebuhr的文化神学](./Christ%20and%20Culture%20of%20H.%20Richard%20Niebuhr.md)
     * Hermeneutics
     * Dogmatics
-        * Prolegomena
+        * [神学作为一门学问](./Dogmatics/Learning%20Process.md)
         * [启示论](./Dogmatics/Revelation.md)
         * [神论](./Dogmatics/the%20Doctrine%20of%20God.md)
         * [基督论](./Dogmatics/Christology.md)
