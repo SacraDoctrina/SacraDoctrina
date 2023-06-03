@@ -24,7 +24,3 @@ Sacra Doctrina
         * [Kierkegaard](./Modern%20Theology/Kierkegaard.md)
         * [Netzsche](./Modern%20Theology/Nietzsche.md)
         * [Paul Tillich](./Modern%20Theology/Paul%20Tillich.md)
-
-* Historical Theology
-
-* Practical Theology
