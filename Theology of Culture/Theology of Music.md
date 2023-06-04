@@ -16,11 +16,77 @@ Karl Barth:[^2]
 
 * Greek Pythagorean aesthetics
 
+“[31b] Wherefore, in order that this Creature might resemble the all perfect Living Creature in respect of its uniqueness, for this reason its Maker made neither two Universes nor an infinite number, but there is and will continue to be this one generated Heaven, unique of its kind. Now that which has come into existence must needs be of bodily form, visible and tangible; yet without fire nothing could ever become visible, nor tangible without some solidity, nor solid without earth. Hence, in beginning to construct the body of the All, God was making it of fire and earth. But **it is not possible that two things alone should be conjoined without a third**; for there must needs be some intermediary bond to connect the two. And the fairest of bonds is that which most perfectly unites into one both itself and the things which it binds together; and **to effect this in the fairest manner is the natural property of proportion**. For whenever the middle term of any three numbers, cubic or square, ... ”(Plato, Timaeus 31b-c)
+
 * St. Augustine
 
 * Boethius
 
 * Martin Luther
+
+    * Luther's God is a Giver
+
+    “In Dictata super Psalterium, Luther defines God: hoc est esse Deum: non accipere bona, sed dare, “this is what it means to be God: not to take good, but to give it.” [WA 4, 269, 21]”[40]
+
+    * the fourfold division of music
+
+        1. “The phenomenon of sound”
+        2. “Music in the nature, birdsong in particular” 
+        3. “Human voice”
+        4. “Art music”[^41]
+
+        1. “The phenomenon of sound”
+
+        Music has been instilled and implanted in all creatures, individually and collectively. For nothing is without sound or harmony. Even the air, which of itself is invisible and imperceptible to all our senses, and which, since it lacks both voice and speech, is the least musical of all things, becomes sonorous, audible, and comprehensible when it is set in motion . Wondrous mysteries are here suggested by the Spirit.”[^42]
+
+        WA 50, 369, 1-6: “Primum, si rem ipsam spectes, inuenies Musicam esse ab initio mundi inditam seu concreatam creaturis vniuersis, singulis et omnibus. Nihil enim est sine sono, seu numero sonoro, ita vt et aer ipse per sese inuisibilis et inpalpabilis, omnibusque sensibus inperceptibilis, minimeque omnium musicus, sed plane mutus et nihil reputatus, tamen motus sit sonorus et audibilis, tunc etiam palpabilis, mirabilia in hoc significante spiritu mysteria, de quibus hic non est locus dicendi.”[^43]
+
+        "the Pythagorean theory of music"[^44]
+
+        “the harmony of the spheres”[^45]
+
+        WA 43, 444, 13-17: “Pythagora faulatus est de motu Sphaerarum coelestium, sive id ex se ipso, sive ex patribus habuit: quod motus isti assiduo suavissimum concentum edant: Sed mortalium animos et aures ista assiduitate stupefactos, ut non exaudiant eos amplius.”[^46]
+
+        2. “Music in the nature, birdsong in particular”
+
+        Luther: “Music is still more wonderful in living things, especially birds, so that David, the most musical of all the kings and minstrel of God, in deepest wonder and spiritual exultation praised the astounding art and ease of the song of birds when he said in Psalm 104, ‘By them the birds of the heaven have their habitation; they sing among the brnches.’”[^47]
+
+        WA 50, 369, 6-11: “Sed mirabilior est Musica in animantibus, praesertim volucribus, vt Musicissimus ille Rex et diuinus psaltes Dauid cum ingenti stupore et exultante spiritu praedicit mirabilem illam volucrum peritiam et certitudinem canendi, [Ps 104, 12] dicens Psalmo centesimo tertio, ‘Super ea volucres coeli habitant, de medio ramorum dant voces.’”[^48]
+
+        “This noble art has its image in all creatures. Ah with what delightful music the Almighty Lord has blessed his song-master, the dear nightingale, together with his young scholars and many thousands of birds in the air, that each kind has its own mode and melody, its delightful sweet voice and fantastic coloratura, that no one on earth can comprehend.”[^49]
+
+        “It sings all night and practically shrieks its lungs out. It is happier in the woods than cooped up in a cage.”[^50]
+
+        3. “Human voice”
+        
+        “From the standpoint of theology of culture, it is useful to notice that human action makes God’s creation even more perfect. Compared to the human voice the music of nature is almost unmusical.”[^51]
+
+        Luther: “And yet, compared to the human voice, all this hardly deserves the name of music, so abundant and incomprehensible is here the munificence and wisdom of our most gracious Creator. Philosophers have labored to explain the marvelous instrument of the human voice: how can the voice, at the direction of the will, sound forth so powerfully and vehemently that it cannot only be heard by everyone over a wide area, but also be understood? Philosophers for all their labor cannot find the explanation; and baffled they end in perplexity; for none of them has yet been able to define or demonstrate the original components of the human voice, its sibilation and (as it were) its alphabet, e.g, in the case of laughter – to say nothing of weeping. They marvel, but they do not understand. But such speculations on the infinite wisdom of God, shown in this single part of his creation, we shall leave to better men with more time on their hands. We have hardly touched them.”[^52]
+
+        WA 50, 369, 12-370, 12: “Verum ad humanam vocem omnia sunt prope immusica, tanta est optimi Creatoris in hac vna re superffusa et incompraehensibilis munificentia et sapientia. Sudarunt Philosophi, vt intelligerent hoc mirabile artificium vocis humanae, quo modo tm leui motu linguae leuiorique adhuc motu gutturis pulsus aer funderet illam infinitam varietatem et articulationem vocis et verborum, pro arbitrio animae gubernantis, tam potenter et vehementer, vt per tanta interualla locorum circulariter ab omnibus distincte non solum audiri, sed et intelligi possit. Sed sudant tantum, nunquam inueniunt, et cum admiratione desinunt in stuporem, Quin nulli adhuc reperti sunt, qui definire et statuere potuerint, quid sit ille sibilus et alphapetum quoddam vocis humanae, seu materia prima, nempe Risus (de fletu nihil dicam). Mirantur, sed non complectuntur. Verum haec speculabilia de infinita sapientia Dei in hac vna creatura relinquamus melioribus et ociosioribus, nos vix gustum attingimus.”[^53]
+
+        Luther: “For even a comparison between different men will show how rich and manifold our glorious Creator proves himself in distributing the gifts of music, how much men differ from each other in voice and manner of speaking so that one amazingly excels the other. No two men can be found with exactly the same voice and manner of speaking, although they often seem to imitate each other, the one as it were being the ape of the other.”[^54]
+
+        WA 50, 372, 5-10: “Iam si comparationem feceris inter ipsos homines, videbis quam multiplex et varius sit Creator gloriosus in donis Musicae dispertitis, quantum differat homo ab homine in voce et vorbo, vt alius alium mirabiliter excellat, negant enim posse duos homines inueniri similis per omnia vocis et loquelae, etiam si saepius imitari alii alios videantur, velut alii aliorum simiae.”[^55]
+
+        4. “Art music”
+
+        Luther: “But when (musical) learning is added to all this and artistic music which corrects, develops, and refines the natural music, then at last it is possible to taste with wonder (yet not to comprehend) God’s absolute and perfect wisdom in his wondrous work of music. Here it is most remarkable that one singe voice continues to sing the tenor, while at the same time many other voices play around it, exulting and adorning it in exuberant strains and, as it were, leading it forth in a divine roundelay, so that those who are at least bit moved to know nothing more amazing in the world.”[^56]
+
+        WA 50, 372, 11-373, 4: “Vbi autem tandem accesserit studium et Musica artificialis, quae naturalem corrigat, excolat et explicet, Hic tandem gustare cum stupore licet (sed non comprehendere) absolutam et perfectam sapientiam Dei in opere suo mirabili Musicae, in quo genere hoc excellit, quod vna et eadem voce canitur suo tenore pergente, pluribus interim vocibus circum circa mirabiliter ludentibus, exultantibus et iucundissimis gestibus eandem ornantibus, et velut iuxta eam diuinam quandam choream ducentibus, vt iis, qui saltem modice afficiuntur, nihil mirabilius hoc seculo extare videatur.”[^57]
+
+        Luther: “It was not without reason that the fathers and prophets wanted nothing else to be associated as closely with the Word of God as music. Therefore we have so many hymns and Psalms where the Word and music join to move the listener’s soul, while in other living beings and physical bodies music remains a language without words.”[^58]
+
+        WA 50, 371, 14-372, 2: “Vnde non frustra Patres et Prophetae verbo Dei nihil voluerunt esse coniunctius quam Musicam. Inde enim enim tot Cantica et Psalmi, in quibus simul agunt et sermo et vox in animo auditoris, dum in caeteris animantibus et corporibus sola music sine sermone gesticulatur.”[^59]
+
+        Luther: “Take special care to shun perverted minds which prostitute this lovely gift of nature and art with their erotic rantings; and be quite assured that none but the devil goads them on to defy their very nature which would and should praise God its Maker with this gift, so that these bastards purloin the gift of God and use it to worship the foe of God, the enemy of nature and this lovely art.”[^60]
+
+    * Music and Theology
+
+    WA Tr 3, 3815: “Musica est insigne donum Dei et theologiae proxima.”[^61]
+
+
+
 
 * Johann Sebastian Bach
 
@@ -40,3 +106,25 @@ Karl Barth:[^2]
 [^2]: Karl Barth, Wolfgang Amadeus Mozart, trans. Clarence K. Pott (Grand Rapids: Eerdmans, 1986), 16.
 [^3]: 손호현, “음악과 신정론,” 「신학논단」 73집 (2013년).
 [^10]: R. Martin, Worship in the early Church (London, 1964), 39; McKinnon, Music in early Christian literature, 12.
+[^40]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 71.
+[^41]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 84.
+[^42]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 85. WA 50, 369, 1-6.
+[^43]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 85 note 350.
+[^44]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 85.
+[^45]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 85.
+[^46]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 86 note 353.
+[^47]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 88.
+[^48]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 88 note 359.
+[^49]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 88.
+[^50]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 89.
+[^51]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 89.
+[^52]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 89-90.
+[^53]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 90 note 365.
+[^54]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 92.
+[^55]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 92 note 370.
+[^56]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 93.
+[^57]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 93 note 373.
+[^58]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 132.
+[^59]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 132 note 505.
+[^60]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 119.
+[^61]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 96 note 379.
