@@ -2,37 +2,37 @@
 
 > "God is a concept by which we measure our pain." (John Lennon)
 
-* Music and Theology
+## Music and Theology
 
 "Thank you, Mr. Menuhin; you have once again proved to me that there is a God in heaven."[^1]
 
 Karl Barth:[^2]
 
-* Toward Theology of Music
+## Toward Theology of Music
 
 아프면 소리를 치른다.[^3]
 
-    * 'The Christian Church was born in song'[^10]
+* 'The Christian Church was born in song'[^10]
 
-    * Greek Pythagorean aesthetics
+* Greek Pythagorean aesthetics
 
-    * St. Augustine
+* St. Augustine
 
-    * Boethius
+* Boethius
 
-    * Martin Luther
+* Martin Luther
 
-    * Johann Sebastian Bach
+* Johann Sebastian Bach
 
-    * Wolfgang Amadeus Mozart
+* Wolfgang Amadeus Mozart
 
-    * G. W. F. Hegel
+* G. W. F. Hegel
 
-    * Arthur Schopenhauer
+* Arthur Schopenhauer
 
-    * Gerardus van der Leeuw
+* Gerardus van der Leeuw
 
-* 结论：
+# 结论：
 
 
 
