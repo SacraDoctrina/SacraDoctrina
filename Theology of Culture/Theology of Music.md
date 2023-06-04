@@ -159,3 +159,4 @@ Karl Barth:[^2]
 [^66]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 97-98.
 [^67]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 99-100.
 [^68]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 100.
+[^69]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 103. LW 29, 177; WA 57, 176.
