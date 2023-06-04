@@ -34,6 +34,7 @@ Karl Barth:[^2]
         2. “Music in the nature, birdsong in particular” 
         3. “Human voice”
         4. “Art music”[^41]
+        
 
         1. “The phenomenon of sound”
 
