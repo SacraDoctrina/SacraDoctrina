@@ -12,13 +12,13 @@ Karl Barth:[^2]
 
 아프면 소리를 치른다.[^3]
 
-### * 'The Christian Church was born in song'[^10]
+* 'The Christian Church was born in song'[^10]
 
-#### * Greek Pythagorean aesthetics
+* Greek Pythagorean aesthetics
 
-##### * St. Augustine
+* St. Augustine
 
-###### * Boethius
+* Boethius
 
 * Martin Luther
 
