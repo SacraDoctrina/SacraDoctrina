@@ -79,11 +79,35 @@ Karl Barth:[^2]
 
         WA 50, 371, 14-372, 2: “Vnde non frustra Patres et Prophetae verbo Dei nihil voluerunt esse coniunctius quam Musicam. Inde enim enim tot Cantica et Psalmi, in quibus simul agunt et sermo et vox in animo auditoris, dum in caeteris animantibus et corporibus sola music sine sermone gesticulatur.”[^59]
 
+    * 魔鬼和音乐的滥用
+
         Luther: “Take special care to shun perverted minds which prostitute this lovely gift of nature and art with their erotic rantings; and be quite assured that none but the devil goads them on to defy their very nature which would and should praise God its Maker with this gift, so that these bastards purloin the gift of God and use it to worship the foe of God, the enemy of nature and this lovely art.”[^60]
 
-    * Music and Theology
+    * 音乐与神学
 
     WA Tr 3, 3815: “Musica est insigne donum Dei et theologiae proxima.”[^61]
+
+    WA 30 II, 696, 12: “Proximum locum do Musicae post Theologiam.”[^62]
+
+    Luther: “Except for theology there is no art that could be put on the same level with music, since except for theology it alone produces a calm and joyful dispositiion (quietem et animum laetum). ... This is the reason why the prophets did not make use of any art other than music: when setting forth their theology they did it not as geometry, not as arithmetic, not as astronomy, but as music, so that they held theology and music most tightly connected (coniunctissimas).”[^63]
+
+    WA BR 5, 639, 9-10, 12-21: “Neque dubium est, multa semina bonarum virtutum in his animis esse, qui musica afficiuntur. ... Et plane iudico, nec pudet asserere, post theologiam esse nullam artem, quae musicae possit aequari, cum ipsa sola post theologiam id praestet, quod alioqui sola theologia praestat, scilicet quietem et animum laetum, manifesto argumento, quod diabolus, curarum tristium et turbarum inquietarum autor, ad vocem musicae paene similiter fugiat, sicut fugit ad verbum theologiae. Hinc factum est, ut prophetae nulla sic arte sint usi ut musica, dum suam theologiam non in geometriam, non in arithmeticam, non in astronomiam, sed in musicam digesserunt, ut theologiam et musicam haberent coniunctissimas, veritatem psalmis et canticis dicentees.”[^64]
+
+    WA 50, 371, 1-2: “Musicam esse vnam, quae post verbum Dei merito celebrari debeat, domina et gubernatrix affectuum humanorum.”[^65]
+
+    * 教会存在的方式是赞美
+
+    Luther: “This tree of the knowledge of good and evil, or the place where trees of this kind were planted in large number, would have been the church at which Adam, together with his descendants, would have gathered on the Sabbath day. And after refreshing themselves from the tree of life he would have praised God and lauded Him for the dominion over all the creatures on the earth which had been given to mankind. Psalms 148 and 149 suggest a kind of liturgy for such thanksgiving, where the sun, the moon, the stars, the fish, and the dragons are commanded to praise the Lord. Yet every one of us could have composed a better and more perfect psalm than any of these if we had been begotten by Adam in innocence. Adam would have extolled the greatest gift, namely, that he, together with his descendants, was created according to the likeness of God.”[^66]
+
+    * 福音=音乐
+
+    “In the preface of the New Testament, Luther notes that euangelion is a Greek word for good news that one sings and speaks of and is happy about. ... Thus music is mentioned three times in a concise text where Luther wants to depict the very essentials of the Gospel. As a language of praise, music belongs to the essence of the church. ... He establishes seven hallmarks of the church (notae ecclesiae), of which the sixth has a musical character.”[^67]
+
+    Luther: “Sixth, the holy Christian people are externally recognized by prayer, public praise, and thanksgiving to God. Where you see and hear the Lord’s Prayer prayed and taught; or psalms or other spiritual songs sung, in accordance with the word of God and the true faith. ... The psalms too are nothing but prayers in which we prise, thank, and glorify God. ... However, we are now speaking of prayers and songs which are intelligible and from which we can learn and by means of which we can mend our ways. The clamor of monks and nuns and priests is not prayer, nor is it praise to God.”[^68]
+
+    * 没有音乐的地狱 存在音乐的天堂
+
+    Luther: “Hell is hell not because punishment is there but because praise of God is not there. Likewise heaven is not heaven because joy is there, but because praise of God is there.”[^69]
 
 
 
@@ -128,3 +152,10 @@ Karl Barth:[^2]
 [^59]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 132 note 505.
 [^60]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 119.
 [^61]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 96 note 379.
+[^62]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 96 note 379.
+[^63]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 132.
+[^64]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 132 note 506.
+[^65]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 96 note 380.
+[^66]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 97-98.
+[^67]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 99-100.
+[^68]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 100.
