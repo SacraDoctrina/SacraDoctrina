@@ -141,7 +141,7 @@ Karl Barth:[^2]
     5. For [music] reigns in times of peace.  
     It will be difficult to keep this delightful skill after us.  
     The Dukes of Bavaria are to be praiseed in this, that they honor music.  Among our Saxon [Dukes] weapons and cannons are esteemed.”[^75]
-
+    
     * 音乐的功效
 
     Luther: “The Holy Ghost himself honors her as an instrument for his proper work when in his Holy Scriptures he asserts that through her his gifts were instilled in the prophets, namely, the inclination to all virtues, as can be seen in Elisha (2Kgs 3:15). On the other hand, she serves to cast out Satan, the instigator of all sins, as is shown in Saul, the king of Israel (1 Sam 16:23).”[^76]
@@ -149,6 +149,32 @@ Karl Barth:[^2]
     WA 50, 371, 9-13: “Honorat eam ipse Spiritus sanctus, ceu sui proprii officii organum, dum in scripturis suis sanctis testatur, dona sua per eam Prophetis illabi, id est omnium virtutum affectus, vt in Eliseo videre est, Rursus per eandem expelli Satanam, id est omnium vitiorum impulsorem, vt in Saule rege Israel monstratur.”[^77]
 
     Cf. WA 30 II, 696, 7; WA Br 5, 639, 16; WA Tr 1, 968: “Musica maximum, immo divinum est donum, ideo Satanae summe contrarium, quia per eam multae et magnae tentationes pelluntur. Diabolus non expectat, cum ea exercetur.”[^78]
+
+    WA TR 5, 4441: “Canebatur passio, quam attentissime observabat suis legibus dicens: Musica optimum Dei donum. Saepius ita me incitavit et acuit das ich lust zu predigen gewonnen habe.”[^79] [They were sung with passion, which he observed most attentively to his own laws, saying: Music is the best gift of God. It has often incited and sharpened me so hard that I have gained a desire to preach.] 
+
+    * 死亡 音乐与葬礼
+
+    Luther: “Accordingly, we do not sing any dirges (Trawrlied) or doleful songs over our dead at the grave, but comforting hymns of the forgiveness of sins, of rest, sleep, life, and of the resurrection of the departed Christians so that our faith may be strengthened and the people be moved to true devotion.”[^80]
+
+    Luther: “All this is done so that the article of Resurrection may be firmly implanted in us. For it is our lasting, blessed, and eternal comfort and joy (trost und freude) against death, hell, and the devil, and every woe (traurigkeit).”[^81]
+
+    “We want the beautiful art of music to be properly used to serve her dear Creator and his Christians. He is thereby praised and honored and we are made better and stronger in faith when his holy Word is impressed on our hearts by sweet music.”[^82]
+
+    WA 35, 480, 5-9: “Das also solcher schoener schmuck der Musica in rechtem Brauch jrem lieben Schepffer und seinen Christen diene, Das er gelobt und geehret, wir aber durch sein heiliges wort, mit suessem Gesang jns Hertz getrieben, gebessert und gesterckt werden im glauben.”[^83]
+
+    * "十字架之歌 (canticum crucis)" (1519年)
+
+    Luther: “Singing to the Lord does not always mean to be happy and to rejoice. On the contrary, the new song is song of the cross, which is, praising and carrying God in the midst of afflictions and up to death.”[^84]
+
+    WA 2, 333, 25-27: “Deinde cantare domino non semper est letari et gaudere, immo canticum novum est canticum crucis, hoc est laudare et portare deum in mediis tribulationibus, atque adeo in morte.”[^85]
+
+    * “Be ugly to yourself, and you will be beautiful to God.”
+
+    Luther: “Be ugly to yourself, and you will be beautiful to God.”[^86]
+
+    WA 4, 110, 16-17: “Tibi esto fedus, et eris deo pulcher. Tibi esto infirmus, et eris deo fortis. Tibi esto peccator, et eris deo iustus.”[^87]
+
+
 
 
 
@@ -209,4 +235,12 @@ Karl Barth:[^2]
 [^76]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 121.
 [^77]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 121 note 467.
 [^78]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 122 note 468.
-[^79]: 
+[^79]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 122 note 471.
+[^80]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 123. WA 35, 478, 31-479, 2; LW 25, 326.
+[^81]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 123.
+[^82]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 136.
+[^83]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 136 note 521.
+[^84]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 125.
+[^85]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 125 note 479.
+[^86]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 165.
+[^87]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 165 note 601.
