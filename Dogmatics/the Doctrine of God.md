@@ -125,8 +125,36 @@ Lindbeck: "the process of becoming religious [is]. . . similar to that of acquir
 Before God, and with God, we live without God.[^50]
 
 
-
+[^2]: David Tracy, “Approaching the Christian Understanding of God,” in Francis S. Fiorenza and John P. Galvin eds., Systematic Theology: Roman Catholic Perspectives, vol. 1 (Minneapolist: Fortress, 1991), 134.
 [^3]: St. Anselm, Proslogion, trans. M. J. Charlesworth (Notre Dame: University of Notre Dame Press, 1979), 117.
 [^4]: Dialogues, 2nd Kempt Smith edition, 166-167.
 [^5]: Critique of Pure Reason, Pluhar ed., 584.
+[^6]: G. W. F. Hegel, The Encyclopaedia Logic: Part I of the Encyclopaedia of Philosophical Sciences with the Zusätze (Indianapolis and Cambridge: Hackett Publishing Company, Inc., 1991), 94.
+[^7]: G. W. F. Hegel, The Encyclopaedia Logic: Part I of the Encyclopaedia of Philosophical Sciences with the Zusätze (Indianapolis and Cambridge: Hackett Publishing Company, Inc., 1991), 18.
+[^9]: Pannenberg, Systematic Theology, vol. 1, 68.
+[^11]: Pannenberg, Systematic Theology, vol. 1, 71; cf. Karl Rahner, Foundations of Christian Faith, 48.
 [^13]: 
+[^14]: 
+[^15]: 
+[^16]: 
+[^20]: Rahner, Foundations of Christian Faith, 12.
+[^21]: Rahner, Foundations of Christian Faith, 21.
+[^22]: Rahner, Foundations of Christian Faith, 44.
+[^23]: Rahner, Foundations of Christian Faith, 45.
+[^24]: Rahner, Foundations of Christian Faith, 46.
+[^25]: Rahner, Foundations of Christian Faith, 46-47.
+[^26]: Rahner, Foundations of Christian Faith, 51.
+[^31]: Gordon Kaufman, An Essay on Theological Method, 27.
+[^33]: Nature of Doctrine, 65-7.
+[^34]: Nature of Doctrine, 61.
+[^35]: Gordon Kaufman, An Essay on Theological Method, 65.
+[^36]: Gordon Kaufman, An Essay on Theological Method, 8.
+[^39]: Gordon Kaufman, An Essay on Theological Method, 17.
+[^40]: Gordon Kaufman, An Essay on Theological Method, 8.
+[^41]: Nature of Doctrine, 22.
+[^46]: Alister E. McGrath, Christian Theology: An Introduction, second edition (Oxford: Blackwell, 1994), 295.
+[^47]: Walter Kasper, The God of Jesus Christ, 245-6.
+[^48]: 손호현, 『사도신경: 믿음의 알짬』(서울: 동연, 2014), 22.
+[^49]: Dietrich Bonhoeffer, Letters & Papers from Prison (New York: Touchstone, 1997),
+360-361.
+[^50]: Dietrich Bonhoeffer, Letters & Papers from Prison (New York: Touchstone, 1997), 360.
