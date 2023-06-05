@@ -5,7 +5,7 @@
 
 David Tracy:""[^2]
 
-## Theology as metaphysics
+## Theology as Metaphysics
 
 * Thomas Aquinas: cosmological arguments for the existence of God
 
