@@ -109,6 +109,46 @@ Karl Barth:[^2]
 
     Luther: “Hell is hell not because punishment is there but because praise of God is not there. Likewise heaven is not heaven because joy is there, but because praise of God is there.”[^69]
 
+    * For the highest works of man are the praise of God.
+
+    “Augustine says that, in the opinion of some, it was understood in this way: ‘My heart uttered a good word, that is, a hymn and praise to Christ, as blasphemy is an evil word.’ (And this opinion is not absurd, because the saints cannot ‘pour out’ the joy of their heart: they can scarcely ‘utter’ it.) ‘I speak my words,’ that is to say, ‘my praises’. For the highest works of man are the praise of God. We cannot pay back anything but praise and confession.”[^70]
+
+    LW 10, 220; WA 3, 261, 38-262, 4: “Doco ego opera mea, i.e. laudes: quia summa opera hominis sunt laus Dei, nec possumus aliquid retribuere nisi laudem et confessionem tantum.”[^71]
+
+    Luther, The Large Catechism: “A ‘god’ is the term for that to which we are to look for all good and in which we are to find refuse in all need. Therefore, to have a god is nothing else than to trust and believe in that one with your whole heart. As I have often said, it is the trust and faith of the heart alone that make both God and an idol. If your faith and trust are right, then your God is the true one. Conversely, where your trust is false and wrong, there you do not have the true God. For these two belong together, faith and God. Anything on which your heart relies and depends, I say; that is really your God.”[^72]
+
+    BC 386, WA 30, I, 133, 1-8: “Ein Gott heisset das, dazu man sich versehen sol alles guten und zuflucht haben ynn allen noeten. Also das ein Gott haben nichts anders ist denn yhm von hertzen trawen und gleuben, wie ich offt gesagt habe, das alleine das trawen und gleuben des hertzens machet beide Gott und abeGott. [Glaube und trawen machet ein Gott.] Jst der glaube und vertrawen recht, so ist auch dein Gott recht, und wideruemb wo das vertrawen falsch und unrecht ist, da ist auch der rechte Gott nicht. Denn die zwey gehoeren zuhauffe, glaube und Gott. Worauff du nu (sage ich) dein hertz hengest und verlessest, das ist eygentlich dein Gott.”[^73]
+
+    * "On Music"
+
+    “μουσικην εραω  
+    Eciam damnantes non placent Schwermerii  
+    Q u i a  
+    1. Dei donum non humium est  
+    2. Quia facit letos animos  
+    3. Quia fugat diabolum  
+    4. Quia innocens gaudium facit.”[^74]
+
+    “I love music.  
+    Its censure by fanatics does not please me For  
+    1. [Music] is a gift of God and not of man  
+    2. For it creates joyful hearts  
+    3. For it drives away the devil  
+    4. For it creates innocent delight, destorying wrath, unchastity, and other excesses. I place music next to theology.  
+        This is well knwn from the example of  
+        David and all th prophets, who all  
+        produced poetry and songs.  
+    5. For [music] reigns in times of peace.  
+    It will be difficult to keep this delightful skill after us.  
+    The Dukes of Bavaria are to be praiseed in this, that they honor music.  Among our Saxon [Dukes] weapons and cannons are esteemed.”[^75]
+
+    * 音乐的功效
+
+    Luther: “The Holy Ghost himself honors her as an instrument for his proper work when in his Holy Scriptures he asserts that through her his gifts were instilled in the prophets, namely, the inclination to all virtues, as can be seen in Elisha (2Kgs 3:15). On the other hand, she serves to cast out Satan, the instigator of all sins, as is shown in Saul, the king of Israel (1 Sam 16:23).”[^76]
+
+    WA 50, 371, 9-13: “Honorat eam ipse Spiritus sanctus, ceu sui proprii officii organum, dum in scripturis suis sanctis testatur, dona sua per eam Prophetis illabi, id est omnium virtutum affectus, vt in Eliseo videre est, Rursus per eandem expelli Satanam, id est omnium vitiorum impulsorem, vt in Saule rege Israel monstratur.”[^77]
+
+    Cf. WA 30 II, 696, 7; WA Br 5, 639, 16; WA Tr 1, 968: “Musica maximum, immo divinum est donum, ideo Satanae summe contrarium, quia per eam multae et magnae tentationes pelluntur. Diabolus non expectat, cum ea exercetur.”[^78]
 
 
 
@@ -160,3 +200,13 @@ Karl Barth:[^2]
 [^67]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 99-100.
 [^68]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 100.
 [^69]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 103. LW 29, 177; WA 57, 176.
+[^70]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 104.
+[^71]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 104 note 402.
+[^72]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 107.
+[^73]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 107-108 note 418.
+[^74]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 120-121.
+[^75]: Mark C. Mattes, Martin Luther’s Theology of Beauty: A Reappraisal (Grand Rapids: Baker Academic, 2017), 123.
+[^76]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 121.
+[^77]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 121 note 467.
+[^78]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 122 note 468.
+[^79]: 
