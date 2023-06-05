@@ -44,7 +44,7 @@ Jonathan Edwards:
 
 * 美国普林斯顿学派原教旨主义圣经观
 主张：Plenary verbal inspiration
-逻辑：
+论据：
 
 马丁路德的唯独圣经 (Solar Scriptura):
 
