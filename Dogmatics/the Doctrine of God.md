@@ -149,6 +149,7 @@ Before God, and with God, we live without God.[^50]
 [^34]: Nature of Doctrine, 61.
 [^35]: Gordon Kaufman, An Essay on Theological Method, 65.
 [^36]: Gordon Kaufman, An Essay on Theological Method, 8.
+[^37]: Lindbeck's "Review of An Essay on Theological Method."
 [^39]: Gordon Kaufman, An Essay on Theological Method, 17.
 [^40]: Gordon Kaufman, An Essay on Theological Method, 8.
 [^41]: Nature of Doctrine, 22.
