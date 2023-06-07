@@ -176,6 +176,14 @@ Karl Barth:[^2]
 
     Luther’s Heidelberg Disputation : “The sinners are beautiful because they are loved; they are not loved because they are beautiful.”[^98] Anttila将之称为“aesthetic variation of justification”: “... the beauty of God is the beauty that makes us beautiful. This is the aesthetic variation of justification through faith alone.”[^99]
 
+    StA 1, 212, 10-11: “Ideo enim peccatores sunt pulchri, quia diliguntur, non ideo diliguntur, quia sunt pulchri.”[^100]
+
+    * all Christians will be priests
+
+    “Luther states succinctly that the New Testament has no outward worship of God besides thanksgiving. This means that true religion is no longer bound by place, time, or person. In the new covenant, all Christians are priests offering a spiritual sacrifice, which is to sing, praise, preach, write, and read the good deeds of Christ.”[^101]
+
+    WA 25, 27, 24-35: “‘Cantate Domino canticum novum.’ Agit iam infirmo illi et stulto Deo corm mundo gratias pro tantis beneficiis, quae hactenus praedicavit. Simmul indicat, quod nullus alius Dei cultus externus in novo Testamento sit quam gratiarum actio. Et quia dicit ‘Cantate NOVUM canticum’, abrogat omnem illum veterem cultum Dei, qui in lege fuit. Finium autem terrae et Insularum ideo meminit, ut reprehendat Iudaeos, qui putabant Deum nusquam nec debere nec posse coli quam in Hierusalem. Quasi dicat: Religio non est amplius ulli vel loco vel tempori vel personae alligata. Euangelion enim praedicabitur in omnem terram et Christiani omnes erunt sacerdotes et sacrificabunt oblationes spirituales, sicut dicit Psal. 110., hoc est sacrificium laudis. Id enim est canere, laudare, praedicare, scribere, legere beneficia Christi.”[^102]
+
 
 
 
