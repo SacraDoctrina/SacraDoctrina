@@ -174,6 +174,7 @@ Karl Barth:[^2]
 
     WA 4, 110, 16-17: “Tibi esto fedus, et eris deo pulcher. Tibi esto infirmus, et eris deo fortis. Tibi esto peccator, et eris deo iustus.”[^87]
 
+    Luther’s Heidelberg Disputation : “The sinners are beautiful because they are loved; they are not loved because they are beautiful.”[^98] Anttila将之称为“aesthetic variation of justification”: “... the beauty of God is the beauty that makes us beautiful. This is the aesthetic variation of justification through faith alone.”[^99]
 
 
 
