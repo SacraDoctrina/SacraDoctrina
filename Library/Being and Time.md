@@ -1,7 +1,7 @@
 # Being and Time
 
 Martin Heidegger; translated [from the 7th German ed.] by John Macquarrie & Edward Robinson; foreword by Taylor Carmen.  
-New York: HarperPerennial/Modern Thought, c2008.  
+New York: HarperPerennial/Modern Thought, c2008.
 
 ========
 
