@@ -3,7 +3,7 @@
 Martin Heidegger; translated [from the 7th German ed.] by John Macquarrie & Edward Robinson; foreword by Taylor Carmen.  
 New York: HarperPerennial/Modern Thought, c2008.  
 
-========  
+========
 
 Understanding of Being is itself a definite characteristic of Dasein's Being. Dasein is ontically distinctive in that it is ontological. (32)
 
