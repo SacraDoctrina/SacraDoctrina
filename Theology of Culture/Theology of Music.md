@@ -192,20 +192,55 @@ Karl Barth:[^2]
 
     WA 22, 242, 12-22: “Des gleichen sol auch der schoene klang und die liebliche Musica des Euangelij von Christo also die ohren einnemen und fuellen, das man dafur auch kein anders nicht hoere, Gleich als eine grosse glocken oder Heer paucken und bosaunen die lufft so vol schallet und dohnet, das man nicht dafur hoeret, was man sonst redet, singet und schreiet, Also das in alle unserm leben und thuen allezeit dis Wort die oberhand habe im hertzen durch den Glauben und von keinem andern trost, gerechtigkeit und heil wisse. Das weren wol selige augen und ohren, die der seligen zeit des Euangelij kuendten also brauchen und erkennen, was jnen darin Gott gegeben, Denn solch auge und ohre helt Gott selbst fur einen trefflichen teweren schatz und heiligthum, mit aller welt nicht zubezalen, wenn sie auch viel mehr und heller liecht und Sonnet hette.”[^104]
 
-    
+    1531 年 Table Talk 的两个版本
 
+    (1) “What is Law is not done voluntarily, what is Gospel is done voluntarily. In this way God has preached the Gospel also through music, as may be seen in Josquin, form whom all composition flow gladly, willingly, mildly, not compelled and forced by rules, as des fincken gesang .”[^105]
 
+    WA Tr 2, 11, 24-12, 1 (No. 1258): “Was lex ist, gett nicht von stad; was euangelium ist, das gett von stadt. Sic Deus praedicavit euangelium etiam per musicam ...”[^106]
 
+    (2) “What is Law does not come out successfully, nor does it go voluntarily from the hand, but resists and struggles, one does it reluctantly and without liking. But what is Gospel, that comes out successfully, delightfully and willingly. In this way, God has preached the Gospel also through music, as one sees in Josquin’s music, that all his compositions gladly, willingly, mildly, and lovingly flows and goes forth, is not forced nor compelled and tightly and directly bound to the rules, as des Fincken gesang.”
+
+    WA Tr 2, 12, 3-9 (No. 1258): “... Also hat Gott das Euangelium geprediget auch durch die Musicam ...”[^108]
+
+    “The Gospel is the same as the b fa b mi as it is performed; the other pitches are the Law. And the same as the Law obeys the Gospel so must the written pitches submit to the b fa b mi . And in the same way that the Gospel is a lovely and gracious doctrine, so is the mi and fa the most beautiful in all voices. But the other tone is a poor, weak sinner, which allows both b fa and b mi – mi and fa – to be sung.”[^109]
+
+    b fa = B-flat,
+    b mi = B natural
+
+    * Luther’s Encomion musices and John Calvin’s Préface du Psautier Genevois (1543)
+
+    “Calvin also makes his most unrestricted, positive evaluation of music when he claims that among the things that provide recreation (volupté ) for humans, music is the first, or close to first, and should be considered a gift of God. As for the moral use of music, Calvin refers to Plato, who said that one of the most powerful tools to move and change human manners is music. ... Like Luther, Calvin also comprehended the good and bad forces of music.”[^110]
+
+    “Both Luther an Calvin state that music is performed ad Dei gloriam , for the glory of God. However, their approaches to human creativity in words and melodies differ. For Calvin, music is performed for the glory of God only when human creativity is minimized and the Word of God is clearly uttered. For Luther, full human creativity is required to celebrate the glory of the Lord. Luther’s idea is also consisteent in relationship with visual arts. In fact, Luther admonisched artists to invent details that is not told in the Bible when painting pictures of the biblical stories.”[^111]
 
 * Johann Sebastian Bach
 
+“The more sacral music becomes “church music,” the more it loses its aesthetic and religious significance. ... Bach and Beethoven wrote Masses which were useless for worship, and just because at the same time they created truly religious music, the hybrid nature of that form is all the more clear to us: outwardly sacred; inwardly, already fully autonomous.”[^120]
+
 * Wolfgang Amadeus Mozart
+
+I was dreaming about you last week, specifically that I was supposed to give you an examination (why is a mystery to me) and that to my question what “Dogmatics” and “Dogma” might mean, I received no answer at all – despite my most friendly prompting and my hints about your masses, which I especially like! … What I thank you for is simply this: Whenever I listen to you, I am transported to the threshold of a world which in sunlight and storm, by day and by night, is a good and ordered world. Then, as a human being of the twentieth century, I always find myself blessed with courage (not arrogance), with tempo (not an exaggerated tempo), with purity (not a wearisome purity), with peace (not a slothful peace). With an ear open to your musical dialectic, one can be young and become old, can work and rest, be content and sad: in short, one can live.[^124]
 
 * G. W. F. Hegel
 
 * Arthur Schopenhauer
 
+According to Schopenhauer, the musician is a “mouthpiece of the perseity of things,” a “telephone of the beyond,” in fact a “ventriloquist of God”; music is the language “from the abyss,” pure metaphysics. ... “**Music is therefore by no means, like the other arts, the image of ideas, but is the image of the will itself.**” Schopenhauer says the same in scholastic terminology: concepts are the **universalia post rem**, that is, universal abstractions which are formed on the basis of reality; music, on the other hand, conveys **universalia ante rem**, the essence of things, which precedes any giving of form.[^137]
+
 * Gerardus van der Leeuw
+
+“Is music, is art, an expression of the holy? Or is it more than mere expression, is it the movement of the holy itself? Or is it less, only an amusing game of lines, colors, and sounds?”(251)
+
+“First there is the possibility that music reproduces particular content and is
+simple imitation of reality. It can also reproduce sensations, such as joy, grief, and
+love. Or more subtly still, the mere essence of those emotions, the essence of joy or grief in general. Thus we found it in Schopenhauer.”(251)
+
+“Then secondly, we have what Gatz calls “incarnational aesthetics.” Here we are no longer concerned with an opposition between form and content, but with the opposition between appearance and essence. Music is the appearance of the essence of the world, embodiment of the ground of being, the will, in Schopenhauer. This incarnational aesthetics is no longer idealistic, but sacramental. Music is a revelation of the nature of things.”(251)
+
+“Finally, there are the theories of autonomy. These exclude the possibility of music’s having anything to do with something nonmusical, even if this were the grounds of being itself.”(251)
+
+“theology of music”:  
+“Holy music is always a hymn, laudes in the ancient sense, the praise of God sung before his face. And behold, for here we have arrived imperceptibly in the midst of theology. For the original and only true meaning of the word “theology” is the same as hymnody, the praise of God. Theology is not a kind of philosophical justification of belief. This occurs there; but it is essentially eschatological music.”(261)
 
 # 结论：
 
