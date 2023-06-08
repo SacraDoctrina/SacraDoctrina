@@ -129,7 +129,9 @@ heterodoxy = hetero / wrong + doxa / doctrine
     * ontological shoch = musterium tremendum + musterium fascinosum
 
 ## 历史
+
 * Hegel
+
 * Pannenberg
 
 ## 结论：对上帝真理的渴望并不局限于过去的文字。
