@@ -184,7 +184,7 @@ Karl Barth:[^2]
 
     WA 25, 27, 24-35: “‘Cantate Domino canticum novum.’ Agit iam infirmo illi et stulto Deo corm mundo gratias pro tantis beneficiis, quae hactenus praedicavit. Simmul indicat, quod nullus alius Dei cultus externus in novo Testamento sit quam gratiarum actio. Et quia dicit ‘Cantate NOVUM canticum’, abrogat omnem illum veterem cultum Dei, qui in lege fuit. Finium autem terrae et Insularum ideo meminit, ut reprehendat Iudaeos, qui putabant Deum nusquam nec debere nec posse coli quam in Hierusalem. Quasi dicat: Religio non est amplius ulli vel loco vel tempori vel personae alligata. Euangelion enim praedicabitur in omnem terram et Christiani omnes erunt sacerdotes et sacrificabunt oblationes spirituales, sicut dicit Psal. 110., hoc est sacrificium laudis. Id enim est canere, laudare, praedicare, scribere, legere beneficia Christi.”[^102]
 
-    * 听觉器官的优越心
+    * 听觉器官的优越性
 
     WA 57, 222, 1-9: “Verum eximia est in verbo ‘aures’ emphasis et energia, quod in nova lege omnia illa coeremoniarum infinita onera id est peccatorum pericula ablata sunt, nec iam pedes aut manus nec ullum aliud membrum Deus requirit praeter aures. Adeo sunt omnia in facilem vivendi modum redacta. Nam si quaeras ex Christiano, quodnam sit opus, quo dignus fiat nomine Christiano, nullum prorsus respondere poterit nisi **auditum verbi Dei id est fidem**. Ideo solae aures sunt organa Christiani hominis, quia non ex ullius membri operibus, sed de fide iustificatur et Christianus iudicatur.”[^103]
 
