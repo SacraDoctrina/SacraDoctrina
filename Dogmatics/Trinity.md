@@ -31,4 +31,4 @@
 | 对上帝的记忆 | 对上帝的理解 | 对上帝的爱 | 《论三位一体》 14:15；14:4 |
 
 
-[^1] 圣奥古斯丁，《论三位一体》（上海：上海世纪出版集团，出版年），12-13页，周伟驰 译。as cited in Eugene Portalie, A Guide to the Thought of Saint Augustine, Chicago: Henry Regnery Company, 1960, pp.134-135.
+[^1]: 圣奥古斯丁，《论三位一体》（上海：上海世纪出版集团，出版年），12-13页，周伟驰 译。as cited in Eugene Portalie, A Guide to the Thought of Saint Augustine, Chicago: Henry Regnery Company, 1960, pp.134-135.
