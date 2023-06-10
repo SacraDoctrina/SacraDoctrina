@@ -1,13 +1,13 @@
 # 基督论
 
 
-## Models of Salvation
+## The Foundations of Salvation: The Cross of Christ
 
 * the cross as a sacrifice
 
     * 对象：
 
-    * 登场人物：
+    * 登场人物：上帝，人类，耶稣基督
 
     * 论据：
 
