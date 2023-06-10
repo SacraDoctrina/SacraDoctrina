@@ -298,15 +298,9 @@ love. Or more subtly still, the mere essence of those emotions, the essence of j
 [^85]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 125 note 479.
 [^86]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 165.
 [^87]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 165 note 601.
-[^98]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure
-(Berlin/Boston: De Gruyter, 2013), 168.
-[^99]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure
-(Berlin/Boston: De Gruyter, 2013), 169.
-[^100]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure
-(Berlin/Boston: De Gruyter, 2013), 168 note 612.
-[^101]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure
-(Berlin/Boston: De Gruyter, 2013), 125.
-[^102]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure
-(Berlin/Boston: De Gruyter, 2013), 125-126 note 481.
-[^103]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure
-(Berlin/Boston: De Gruyter, 2013), 129 note 494.
+[^98]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 168.
+[^99]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 169.
+[^100]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 168 note 612.
+[^101]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 125.
+[^102]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 125-126 note 481.
+[^103]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 129 note 494.
