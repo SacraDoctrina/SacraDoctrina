@@ -194,11 +194,11 @@ Karl Barth:[^2]
 
     1531 年 Table Talk 的两个版本
 
-    (1) “What is Law is not done voluntarily, what is Gospel is done voluntarily. In this way God has preached the Gospel also through music, as may be seen in Josquin, form whom all composition flow gladly, willingly, mildly, not compelled and forced by rules, as des fincken gesang .”[^105]
+    (1) “What is Law is not done voluntarily, what is Gospel is done voluntarily. In this way God has preached the Gospel also through music, as may be seen in Josquin, form whom all composition flow gladly, willingly, mildly, not compelled and forced by rules, as des fincken gesang.”[^105]
 
     WA Tr 2, 11, 24-12, 1 (No. 1258): “Was lex ist, gett nicht von stad; was euangelium ist, das gett von stadt. Sic Deus praedicavit euangelium etiam per musicam ...”[^106]
 
-    (2) “What is Law does not come out successfully, nor does it go voluntarily from the hand, but resists and struggles, one does it reluctantly and without liking. But what is Gospel, that comes out successfully, delightfully and willingly. In this way, God has preached the Gospel also through music, as one sees in Josquin’s music, that all his compositions gladly, willingly, mildly, and lovingly flows and goes forth, is not forced nor compelled and tightly and directly bound to the rules, as des Fincken gesang.”
+    (2) “What is Law does not come out successfully, nor does it go voluntarily from the hand, but resists and struggles, one does it reluctantly and without liking. But what is Gospel, that comes out successfully, delightfully and willingly. In this way, God has preached the Gospel also through music, as one sees in Josquin’s music, that all his compositions gladly, willingly, mildly, and lovingly flows and goes forth, is not forced nor compelled and tightly and directly bound to the rules, as des Fincken gesang.”[^107]
 
     WA Tr 2, 12, 3-9 (No. 1258): “... Also hat Gott das Euangelium geprediget auch durch die Musicam ...”[^108]
 
@@ -211,7 +211,7 @@ Karl Barth:[^2]
 
     “Calvin also makes his most unrestricted, positive evaluation of music when he claims that among the things that provide recreation (volupté ) for humans, music is the first, or close to first, and should be considered a gift of God. As for the moral use of music, Calvin refers to Plato, who said that one of the most powerful tools to move and change human manners is music. ... Like Luther, Calvin also comprehended the good and bad forces of music.”[^110]
 
-    “Both Luther an Calvin state that music is performed ad Dei gloriam , for the glory of God. However, their approaches to human creativity in words and melodies differ. For Calvin, music is performed for the glory of God only when human creativity is minimized and the Word of God is clearly uttered. For Luther, full human creativity is required to celebrate the glory of the Lord. Luther’s idea is also consisteent in relationship with visual arts. In fact, Luther admonisched artists to invent details that is not told in the Bible when painting pictures of the biblical stories.”[^111]
+    “Both Luther an Calvin state that music is performed ad Dei gloriam , for the glory of God. However, their approaches to human creativity in words and melodies differ. For Calvin, music is performed for the glory of God only when human creativity is minimized and the Word of God is clearly uttered. For Luther, full human creativity is required to celebrate the glory of the Lord. Luther’s idea is also consisteent in relationship with **visual arts**. In fact, Luther admonisched artists to invent details that is not told in the Bible when painting pictures of the biblical stories.”[^111]
 
 * Johann Sebastian Bach
 
@@ -304,3 +304,14 @@ love. Or more subtly still, the mere essence of those emotions, the essence of j
 [^101]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 125.
 [^102]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 125-126 note 481.
 [^103]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 129 note 494.
+[^104]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 131 note 503.
+[^105]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 178-179.
+[^106]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 179 note 650.
+[^107]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 179.
+[^108]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 179 note 651.
+[^109]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 183-184.
+[^110]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 187.
+[^111]: Miikka E. Anttila, Luther’s Theology of Music: Spiritual Beauty and Pleasure (Berlin/Boston: De Gruyter, 2013), 193.
+[^120]: Gerardus van der Leeuw, Sacred and Profane Beauty: The Holy in Art, trans. David E. Green (New York, Chicago, San Francisco: Holt, Rinehart and Winston, 1963), 223.
+[^124]: Karl Barth, Wolfgang Amadeus Mozart , trans. Clarence K. Pott (Grand Rapids: Eerdmans, 1986), 20-22.
+[^137]: Gerardus van der Leeuw, Sacred and Profane Beauty: The Holy in Art, trans. David E. Green (New York, Chicago, San Francisco: Holt, Rinehart and Winston, 1963), 245.
