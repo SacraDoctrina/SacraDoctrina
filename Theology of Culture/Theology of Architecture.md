@@ -28,7 +28,7 @@ Dura-Europos[^11]
 
     * book of the illiterate
 
-    * 
+    * Gothic Architecture and Scholasticism
 
 [^1]: Gerardus van der Leeuw, Sacred and Profane Beauty: the Holy in Art (New York: Holt, Rinehart and Winston, 1963), 265.
 [^2]: Jeanne Halgren Kilde, Sacred Power, Spaced Space: An Introduction to Christian Architecture and leviticus Worship (Oxford: Oxford University Press, 2008), 16.
