@@ -43,15 +43,39 @@ In binding all in one, you are the Holy Spirit.”[^8]
 
     * perichoresis
 
+    * appropriation
+
+* 三位一体思想的早期运动
+
+    * 2-3世纪
+
+    * 4世纪以后（第一次君士坦丁堡公会议 381年）
+
 “One point here is of abiding significance. Christina statements about the Son and the Spirit take up questions which had already occupied Jewish thought concerning the essential transcendent reality of the one God and the modes of his manifestation. The Christian answer to these questions which was given with the Nicene and Constantinopolitan confession of the full deity of the Son and Spirit is to the effect that the forms of the presence and revelation of God in the world are essentially one with the transcendent God himself, so that God is to be thought of as both transcendent and also immanent in the world.”[^11]
 
-“1. The one God is revealed in the manner of creator and lawgiver. This aspect of God is referred to as ‘the Father.’  
-2. The same God is then revealed in the manner of savior, in the person of Jesus Christ. This aspect of God is referred to as ‘the Son.’  
-3. The same God is then revealed in the manner of the one who sanctifies and gives etrnal life. This aspect of God is referred to as ‘the Spirit.’”[^12]
+* 思想史上的三位一体论异端
 
-Gregory of Nyssa: “Peter, James and John are called three humans, even though they share a single common humanity. … So how do we compromise our belief, by saying on the one hand that the Father, Son and the Holy Spirit have a single godhead, while on the other hand denying that we are talking about three gods?”[^13]
+    * modalism
+    
+    “1. The one God is revealed in the manner of creator and lawgiver. This aspect of God is referred to as ‘the Father.’  
+    2. The same God is then revealed in the manner of savior, in the person of Jesus Christ. This aspect of God is referred to as ‘the Son.’  
+    3. The same God is then revealed in the manner of the one who sanctifies and gives etrnal life. This aspect of God is referred to as ‘the Spirit.’”[^12]
+
+    * tritheism
+
+* 思想史上的正统三位一体论教义
+
+    * 迦帕多家教父 (Cappadocian Fathers): Basil the Great (330-379), Gregory of Nyssa (c.332-395), Gregory of Nazianzus (329-389)
+    
+    Gregory of Nyssa: “Peter, James and John are called three humans, even though they share a single common humanity. … So how do we compromise our belief, by saying on the one hand that the Father, Son and the Holy Spirit have a single godhead, while on the other hand denying that we are talking about three gods?”[^13]
+
+    * Augustine
+
+    * Carl Barth
 
 “Imagine two individuals, walking outside Jerusalem on a spring day around the year AD 30. They see three men being crucified, and pause to watch. The first points to the central figure, and says, “There is a common criminal being executed.” The second, pointing to the same man, replies, “There is the Son of God dying for me.” To say that Jesus is the self-revelation of God will not do in itself; there must be some means by which Jesus is recognized as the self-revelation of God. And it is this recognition of revelation as revelation that constitutes the idea of Offenbarsein [revealedness].”[^21]
+
+
 
 “The basic thesis which establishes this connection between the treatises and presents the Trinity as a mystery of salvation (in its reality and not merely as a doctrine) might be formulated as follows: The “economic” Trinity is the “immanent” Trinity and the “immanent” Trinity is the “economic” Trinity.”[^22]
 
