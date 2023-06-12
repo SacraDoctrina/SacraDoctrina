@@ -36,15 +36,22 @@ A fifth element was added to the Platonic tradition which came from Aristotle. T
 
 Logos means "word". But it also refers to the meaning of a word, the reasonable structure which is indicated by a word. Therefore, Logos can also mean the universal law of reality.
 
-For the Stoics the Logos was the divine power which is present in everything that is. There are three aspects to it, all of which become extremely important in the later development.
-The first is the law of nature.  
-Secondly, Logos means the moral law.  
-Thirdly, Logos also means man's ability to recognize reality; we could call it "theoretical reason".  
+For the Stoics the Logos was the divine power which is present in everything that is. There are three aspects to it, all of which become extremely important in the later development. The first is the law of nature. ... Secondly, Logos means the moral law. ... Thirdly, Logos also means man's ability to recognize reality; we could call it "theoretical reason".  
 
 * Eclecticism
 
+Eclecticism is another reality which was taken over by the Christian Church. ... The main ideas which they chose, which we find again in the eighteenth-century Enlightenment, were the following: the idea of providence, which provides a feeling of safety to the life of the people; the idea of God as innate in everybody, which induces fear of God and discipline; the idea of moral freedom and responsibility, which makes it possible to educate and to hold people accountable for moral failure; and finally the idea of immortality, which threatens with another world those who escape punishment in this one. All these ideas were in some way a preparation for the Christian mission.
+
 ### The Inter-Testamental Period
+
+The development in the idea of God during this period between the Testaments was toward a radical transcendence. God becomes more and more transcendent, and for this reason he becomes more and more universal. But a God who is both absolutely transcendent and absolutely universal has lost many of the concrete traits which the God of a nation has.
 
 ### The Mystery Religions
 
 ### The Method of the New Testament
+
+This means that there wew wlways two steps, reception and transformation. 
+
+"Messiah"  "Son of Man"  "Son of David"  "Son of God"  "kyrios"  "Logos" 
+
+The greatness of the New Testament is that it was able to use words, concepts, and symbols which had developed in the history of religions and at the same time preserve the picture of Jesus who was interpreted by them. The spiritual power of the New Testament was great enough to take all these concepts into Christianity, with all their pagan and Jewish connotations, without losing the basic reality, namely, the event of Jesus as the Christ, which these concepts were supposed to interpret.
