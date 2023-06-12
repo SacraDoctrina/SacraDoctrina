@@ -24,6 +24,12 @@ pure reason alone is not able to build up a reality in which one can live.
 
 * The Platonic Tradition
 
+The idea of transcendence, that there is something that surpasses empirical reality, was prepared for Christian theology in the Platonic tradition. ... Also in Plato the inner aim of human existence is described - somewhere in the Philebus, but also practically everywhere in Plato - as becoming similar to God as much as possible.
+
+A third dovtrine besides the idea of reanscendence and the telos of human existence described the soul as falling down from an eternal participation in the essential or spiritual world, being on earth in a body, then trying to get rid of its bondage to the body, and finally reaching an elevation above the material world.
+
+The fourth point in which the Platonic tradition was important was its idea of providence.
+
 
 
 * The Stoics
