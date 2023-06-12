@@ -30,9 +30,16 @@ A third dovtrine besides the idea of reanscendence and the telos of human existe
 
 The fourth point in which the Platonic tradition was important was its idea of providence.
 
-
+A fifth element was added to the Platonic tradition which came from Aristotle. The divine is a form without matter, perfect in itself. This is the profoundest idea in Aristotle. This highest form, called "God", is moving the world, not causally by pushing it from the outside, but by driving everything finite toward him by means of love.
 
 * The Stoics
+
+Logos means "word". But it also refers to the meaning of a word, the reasonable structure which is indicated by a word. Therefore, Logos can also mean the universal law of reality.
+
+For the Stoics the Logos was the divine power which is present in everything that is. There are three aspects to it, all of which become extremely important in the later development.
+The first is the law of nature.  
+Secondly, Logos means the moral law.  
+Thirdly, Logos also means man's ability to recognize reality; we could call it "theoretical reason".  
 
 * Eclecticism
 
