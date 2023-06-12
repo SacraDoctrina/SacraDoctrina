@@ -1,4 +1,4 @@
-# Pneumatology
+# Pneumatology & Trinity
 
 ## 圣灵
 
