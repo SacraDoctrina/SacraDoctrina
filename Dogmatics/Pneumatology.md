@@ -97,7 +97,6 @@ In binding all in one, you are the Holy Spirit.”[^8]
     
     “If the trinitarian relations among Father, Son, and Spirit have the form of mutual self-distinction, they must be understood not merely as different modes of being of one divine subject but as living realizations of separate centers of action. Whether we must also view these centers of action as centers of consciousness depends on whether and in what sense we can apply the idea of consciousness, which derives from human experience, to the divine life. … [A] divine consciousness subsists in threefold mode …”[^24]
 
-De Deo Uno & De Deo Trino. ?
 
 奥古斯丁的区分：trace, image and resemblance.
 
