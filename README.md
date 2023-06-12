@@ -28,3 +28,4 @@ Sacra Doctrina
         * [Paul Tillich](./Modern%20Theology/Paul%20Tillich.md)
     * Library
         * [Being and Time](./Library/Being%20and%20Time.md)
+        * [A History of Christian Thought](./Library/A%20History%20of%20Christian%20Thought.md)
