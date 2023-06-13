@@ -55,3 +55,89 @@ This means that there wew wlways two steps, reception and transformation.
 "Messiah"  "Son of Man"  "Son of David"  "Son of God"  "kyrios"  "Logos" 
 
 The greatness of the New Testament is that it was able to use words, concepts, and symbols which had developed in the history of religions and at the same time preserve the picture of Jesus who was interpreted by them. The spiritual power of the New Testament was great enough to take all these concepts into Christianity, with all their pagan and Jewish connotations, without losing the basic reality, namely, the event of Jesus as the Christ, which these concepts were supposed to interpret.
+
+## Theological Developments in the Ancient Church
+
+### The Apostolic Fathers
+
+### The Apologetic Movement
+
+* The Christian Philosophy
+
+* God and the Logos
+
+### Gnosticism
+
+### The Anti-Gnostic Fathers
+
+* THe System of Authorities
+
+* The Montanist Reaction
+
+* God the Creator
+
+* The History of Salvation
+
+* Trinity and Christology
+
+* The Sacrament of Baptism
+
+### Neo-Platonism
+
+### Clement and Origen of Alexandria
+
+* Christianity and Philosophy
+
+* The Allegorical Method
+
+* The Doctrine of God
+
+* Christology
+
+* Eschatology
+
+### Dynamic and Modalistic Monarchianism
+
+* Paul of Samosata
+
+* Sabellius
+
+### The Trinitarian Controversy
+
+* Arianism
+
+* The Council of Nicaea
+
+* Athanasius and Marcellus
+
+* The Cappadocian Theologians
+
+### The Christological Problem
+
+* The Antiochean Theology
+
+* The Alexandrian Theology
+
+* The Council of Chalcedon
+
+* Leontius of Byzantium
+
+### Pseudo-Dionysius the Areopagite
+
+### Tertullian and Cyprian 
+
+### The Life and Thought of Augustine
+
+* The Development of Augustine
+
+* Augustine's Epistemology
+
+* The Idea of God
+
+* The Doctrine of Man
+
+* Philosophy of history
+
+* The Pelagian Controversy
+
+* The Doctrine of the Church
