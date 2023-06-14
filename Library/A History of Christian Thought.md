@@ -60,7 +60,35 @@ The greatness of the New Testament is that it was able to use words, concepts, a
 
 ### The Apostolic Fathers
 
+The first and basic authority was the Old Testament.
+
+Besides these writings there was already a complex of dogmatic and ethical doctrines which had become traditional. In Ⅰ Clement these are called "the canon of our tradition". 
+
+Baptism was the sacrament of entrance into the church.
+
+All these things were going on in the church. This church was the ekklesia, the assembly of God or Christ. ... If the authority which guarantees truth is embodied in human beings, it is almost unavoidable that there will be a tendency to narrow down upon one individual who holds the final decision.
+
+Another term that was used was iatros, physician.
+
+The idea of the divine Logos breaking the silence of God is very profound. It means that the divine abyss in itself is without word, form, object, and voice. It is the infinite silence of the eternal. But out of this divine silence, the Logos breaks forth and opens up what is hidden in this silence. He reveals the divine ground.
+
+The work of Christ is twofold, first, gnosis (knowledge) and secondly zoe (life). This is the way salvation was conceived of in the early Greek church. Christ brings knowledge and life. Sometimes the two things are combined in the phrase athanatos gndsis, immortal knowledge, knowledge of that which is immortal and which makes immortal.
+
+Knowledge and being belong together; so do lie and non-being. Truth is being; new truth is new being. Whoever has this knowledge of being has saving knowledge.
+
+He gives both the knowledge of immortality and the drug of immortality, which is the sacrament.
+
 ### The Apologetic Movement
+
+(1) Christianity was a threat to the Roman Empire. This was a political accusation; Christianity undermines the structure of the empire; (2) Christianity was, philosophically speaking, nonsense, a superstition mixed with philosophical fragments.
+
+Celsus' deepest criticism of Christianity was neither scientific wilh respect to history nor philosophical with respect to the idea (if Incarnation; instead, it was one which arose out of a basically ii'llgious feeling. He said that the demonic powers which, according to Paul, had been conquered by Christ are actually ruling the world. 
+
+First of all, if you want to speak meaningfully with someone, there must be a common basis of some mutually accepted ideas. ... Thus, the Apologists had to show that there is something in common.
+
+Secondly, the Apologists had to point out defects in the ideas of paganism. ... This is the second step of apologetics, namely, showing the negativity in the other. Thirdly, it must be shown that one's own position is not to be accepted as something from the outside, but rather that Christianity is the fulfillment of a longing and desire in paganism.
+
+A way must be found between the two extremes of either throwing indigestible material at the other from an external position, or telling him what he already knows. The latter is the way liberal theology has often acted, while the former is the way of fundamentalism and orthodoxy.
 
 * The Christian Philosophy
 
