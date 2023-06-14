@@ -92,7 +92,34 @@ A way must be found between the two extremes of either throwing indigestible mat
 
 * The Christian Philosophy
 
+Philosophy at that time referred to the spiritual, non-magical and non-superstitious character of a movement. So Justin was saying that Christianity is the only certain and adequate philosophy because it is not magical or superstitious.
+
+Justin taught that this Christian philosophy is universal; it is the all-embracing truth about the meaning of existence.
+
+He means, in terms of the Logos doctrine, that there-cannot be truth anywhere which is not in principle included in Christian truth. This is what the Fourth Gospel says: the Logos appeared, full of truth and grace.
+
+The Apologists would not say that their religion is right, the others wrong, but that the Logos has appeared on which their religion is based. He is the full Logos of God himself, appearing in the center of his being, appearing in his totality. This is more than religion.
+
+Another argument that was used in defense of Christianity was the moral power and action of those who belong to the church. Therefore, the Christian congregations could not be dangerous to the Roman Empire. 
+
 * God and the Logos
+
+If one is not used to thinking in terms of universals as powers of being, such a concept as Logos remains impossible to understand.
+
+Logos is the principle of the self-manifestation of God. The Logos is God manifest to himself in himself. ... For if the divine Logos in its fullness had not appeared in Jesus as the Christ, no salvation would be possible. This is an argument from existence, not from speculation.
+
+The Logos is the first "work" or generation of God as Father. ... God is not irrational will; he is called eternal nous(mind), and this means he has within himself the power of self-manifestation. This analogy is taken from our experience.
+
+Logos means both word and reason. If one thinks in Old Testament terms, one would prefer to translate logos by "word"; if one thinks in Greek terms, as the Apologists did on the whole, then one would translate logos by "reason". "Reason" here does not mean "reasoning", but refers to the meaningful structure of reality.
+
+As the immediate self-expression of the divine, the Word(the Logos, form, or reason) is less than the divine abyss, because the divine abyss is always the beginning, and out of the depths of divinity his self-manifestation toward the world comes.
+
+If the Logos is the self-expression of God in movement, is he less than God or
+fully God?
+
+The incarnation is a once-for-all event; and it is not a particular element or characteristic of God which becomes incarnate. Rather, it is the very center of divinity which becomes incarnate, and to express this the idea of the Logos was used. ... Both aspects of Christ, his humanity and his universality, had to be kept together. This was the need of that time which the Apologists fulfilled. And therefore they were successful.
+
+The saving gifts of the Logos are gnosis(knowledge) of God, of the law, and of the resurrection. As the Logos Christ is, first of all, a teacher; not a teacher who teaches us many things he knows better than we, but a teacher in the Socratic sense of giving us existential power of being. The Logos gives us truth about God and moral laws which we are to fulfill through freedom. Thus a kind of intellectualization and some educational elements come into the doctrine of the Christ.
 
 ### Gnosticism
 
