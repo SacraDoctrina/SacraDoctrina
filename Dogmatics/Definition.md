@@ -24,6 +24,8 @@ May God deliver us from what the Fatholic Church reckons one of the sever sins o
 
 The ratio which fides quaerens intellectum(faith seeking understanding) has to seek is not only utilitas(utility). It is also pulchritudo(beauty).[^21]
 
+"신학은 하지 않을 수 없는 사람이 하는 일이다." (Sohn, Hohyun)
+
 God's being itself speaks for His beauty in His revelation.[^22]
 
 [^1]: Augustine, De Doctrina Christiana (On Christian Doctrine ), trans. J. F. Shaw, in Nicene and Post-Nicene Fathers, First Series: Volume II (Oak Harbor, WA: Logos Research Systems, Inc., 1997), I, 4
