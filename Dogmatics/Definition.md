@@ -18,7 +18,13 @@ Similarly, man, so long as he is a part of Nature, must follow the laws of Natur
 
 Thus philosophy is theology, and [one's] occupation with philosophy - or rather in philosophy - is of itself the service of God.[^12]
 
-A theological proff is in itself a delectatio[^EN690].
+A theological proff is in itself a delectatio(delighting).[^19]
+
+May God deliver us from what the Fatholic Church reckons one of the sever sins of the monk - taedium(loathing) - in respect of the great spiritual truths with which theology has to do.[^20]
+
+The ratio which fides quaerens intellectum(faith seeking understanding) has to seek is not only utilitas(utility). It is also pulchritudo(beauty).[^21]
+
+God's being itself speaks for His beauty in His revelation.[^22]
 
 [^1]: Augustine, De Doctrina Christiana (On Christian Doctrine ), trans. J. F. Shaw, in Nicene and Post-Nicene Fathers, First Series: Volume II (Oak Harbor, WA: Logos Research Systems, Inc., 1997), I, 4
 [^2]: Augustine, Confessions. V, xii. 18.
@@ -29,3 +35,7 @@ A theological proff is in itself a delectatio[^EN690].
 [^10]: Whitehead, Alfred North, Religion in the making, (Cleveland : Meridian Books, 1960, c1954.) 16.
 [^11]: [Ed.] Godedienst, the ordinary term in Dutch for religion, is literally "service to God." That etymology is so central to the thought of this passage that one might find grounds here for suspecting that the passage was not written originally in Latin, But perhaps the explanation is simply that Spinoza was addressing an audience whose native language was Dutch. Edwin Curley, The Collected Works of Spinoza , vol. 1 (Princeton, New Jersey: Princeton University Press, 1985), 129.
 [^12]: [Ed.] Gottesdienst is the customary word for "worship," which is a "divine service." In this context the more literal rendering "service of God" seems appropriate since philosophy is the "worship" of God not in a cui tic but in a serving sense. G. W. F. Hegel, Lectures on the Philosophy of Religion, Volume 1: Introduction and The Concept of Religion, ed. by Peter C. Hodgson (Berkeley, Los Angeles, London: University of California Press, 1984), 84.
+[^19]: Barth, Church Dogmatics, II.1 , 657.
+[^20]: Barth, Church Dogmatics, II.1 , 656.
+[^21]: Barth, Church Dogmatics, II.1 , 656.
+[^22]: Barth, Church Dogmatics, II.1 , 657.
