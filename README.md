@@ -12,7 +12,7 @@ Sacra Doctrina
         * [建筑神学](./Theology%20of%20Culture/Theology%20of%20Architecture.md)
     * Hermeneutics
     * Dogmatics
-        * [神学的定义](./Dogmatics/Definition.md)
+        * [神学的定义](./Dogmatics/utilitas%20&%20pulchritudo.md)
         * [神学作为一门学问](./Dogmatics/Learning%20Process.md)
         * [启示论](./Dogmatics/Revelation.md)
         * [神论](./Dogmatics/the%20Doctrine%20of%20God.md)

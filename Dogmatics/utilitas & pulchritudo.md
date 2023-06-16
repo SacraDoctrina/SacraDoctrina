@@ -1,4 +1,4 @@
-# Definition of Theology
+# utilitas & pulchritudo
 
 For to enjoy a thing is to rest with satisfaction in it for its own sake. To use, on the other hand, is to employ whatever means are at one’s disposal to obtain what one desires, if it is a proper object of desire; for an unlawful use ought rather to be called an abuse. [^1]
 
