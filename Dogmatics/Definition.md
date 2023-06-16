@@ -14,7 +14,7 @@ Not that we are ignorant of the term personality, which the Theologians commonly
 
 Religion is what the individual does with his own solitariness.[^10]
 
-Similarly, man, so long as he is a part of Nature, must follow the laws of Nature. That is [true] religion[^a]. So long as he does this, he has his well-being. But if God, so to speak, willed that man should no longer serve him, that would be just as if he were to deprive him of his well-being and destroy him. For all that he is consists in this, that he serves God.[^11]
+Similarly, man, so long as he is a part of Nature, must follow the laws of Nature. That is [true] religion. So long as he does this, he has his well-being. But if God, so to speak, willed that man should no longer serve him, that would be just as if he were to deprive him of his well-being and destroy him. For all that he is consists in this, that he serves God.[^11]
 
 Thus philosophy is theology, and [one's] occupation with philosophy - or rather in philosophy - is of itself the service of God.[^12]
 
