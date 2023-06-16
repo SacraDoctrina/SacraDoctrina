@@ -4,12 +4,13 @@
 
 [Internet Archive](https://archive.org/)  
 [Christian Classics Ethereal Library](https://www.ccel.org/)  
+[EBSCO](https://search.ebscohost.com/)  
 [Internet Sacred Text Archive](https://www.sacred-texts.com/)  
 [HathiTrust](https://www.hathitrust.org/)  
 [Tertullian Project](https://www.tertullian.org/)  
 [JSTOR](https://www.jstor.org/)  
 [Loeb Classical Library](https://www.loebclassics.com/)  
-[ProQuest Dissertations & Theses(PQDT) Global]
+[ProQuest Dissertations & Theses(PQDT) Global]  
 
 ## Bible Study Platform
 
