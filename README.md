@@ -12,6 +12,7 @@ Sacra Doctrina
         * [建筑神学](./Theology%20of%20Culture/Theology%20of%20Architecture.md)
     * Hermeneutics
     * Dogmatics
+        * [神学的定义](./Dogmatics/Definition.md)
         * [神学作为一门学问](./Dogmatics/Learning%20Process.md)
         * [启示论](./Dogmatics/Revelation.md)
         * [神论](./Dogmatics/the%20Doctrine%20of%20God.md)
@@ -26,6 +27,8 @@ Sacra Doctrina
         * [Kierkegaard](./Modern%20Theology/Kierkegaard.md)
         * [Netzsche](./Modern%20Theology/Nietzsche.md)
         * [Paul Tillich](./Modern%20Theology/Paul%20Tillich.md)
+    * [Ketuvim]
+        * [Library](./Ketuvim/Library.md)
     * Library
         * [A History of Christian Thought](./Library/A%20History%20of%20Christian%20Thought.md)
         * [Being and Time](./Library/Being%20and%20Time.md)
