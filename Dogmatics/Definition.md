@@ -18,7 +18,7 @@ Similarly, man, so long as he is a part of Nature, must follow the laws of Natur
 
 Thus philosophy is theology, and [one's] occupation with philosophy - or rather in philosophy - is of itself the service of God.[^12]
 
-A theological proff is in itself a delectatio(delighting).[^19]
+A theological proof is in itself a delectatio(delighting).[^19]
 
 May God deliver us from what the Fatholic Church reckons one of the sever sins of the monk - taedium(loathing) - in respect of the great spiritual truths with which theology has to do.[^20]
 
