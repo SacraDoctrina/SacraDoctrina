@@ -18,6 +18,8 @@ Similarly, man, so long as he is a part of Nature, must follow the laws of Natur
 
 Thus philosophy is theology, and [one's] occupation with philosophy - or rather in philosophy - is of itself the service of God.[^12]
 
+A theological proff is in itself a delectatio[^EN690].
+
 [^1]: Augustine, De Doctrina Christiana (On Christian Doctrine ), trans. J. F. Shaw, in Nicene and Post-Nicene Fathers, First Series: Volume II (Oak Harbor, WA: Logos Research Systems, Inc., 1997), I, 4
 [^2]: Augustine, Confessions. V, xii. 18.
 [^3]: Maurice O’C. Walshe, The Complete Mystical Works of Meister Eckhart (A Herder & Herder Book, 2009), 95.
