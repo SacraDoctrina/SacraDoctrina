@@ -27,7 +27,7 @@ Sacra Doctrina
         * [Kierkegaard](./Modern%20Theology/Kierkegaard.md)
         * [Netzsche](./Modern%20Theology/Nietzsche.md)
         * [Paul Tillich](./Modern%20Theology/Paul%20Tillich.md)
-    * [Ketuvim]
+    * Ketuvim
         * [Library](./Ketuvim/Library.md)
     * Library
         * [A History of Christian Thought](./Library/A%20History%20of%20Christian%20Thought.md)
