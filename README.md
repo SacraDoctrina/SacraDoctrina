@@ -39,10 +39,12 @@ Sacra Doctrina
     * [Kierkegaard](./Modern%20Theology/Kierkegaard.md)
     * [Netzsche](./Modern%20Theology/Nietzsche.md)
     * [Paul Tillich](./Modern%20Theology/Paul%20Tillich.md)
+
+## Practical Theology
+
 * Ketuvim
     * [Library](./Ketuvim/Library.md)
 * Book
     * [A History of Christian Thought](./Book/A%20History%20of%20Christian%20Thought.md)
     * [Being and Time](./Book/Being%20and%20Time.md)
     * [인문학으로 읽는 기독교이야기](./Book/인문학으로%20읽는%20기독교이야기.md)
-        
