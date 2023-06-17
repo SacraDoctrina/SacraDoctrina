@@ -44,6 +44,7 @@ Sacra Doctrina
 
 * Ketuvim
     * [Library](./Ketuvim/Library.md)
+    * [koinonia](./Ketuvim/koinonia.md)
 * Book
     * [A History of Christian Thought](./Book/A%20History%20of%20Christian%20Thought.md)
     * [Being and Time](./Book/Being%20and%20Time.md)
