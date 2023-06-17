@@ -38,8 +38,8 @@ Sacra Doctrina
         * [Paul Tillich](./Modern%20Theology/Paul%20Tillich.md)
     * Ketuvim
         * [Library](./Ketuvim/Library.md)
-    * Library
-        * [A History of Christian Thought](./Library/A%20History%20of%20Christian%20Thought.md)
-        * [Being and Time](./Library/Being%20and%20Time.md)
-        * [인문학으로 읽는 기독교이야기](./Library/인문학으로%20읽는%20기독교이야기.md)
+    * Book
+        * [A History of Christian Thought](./Book/A%20History%20of%20Christian%20Thought.md)
+        * [Being and Time](./Book/Being%20and%20Time.md)
+        * [인문학으로 읽는 기독교이야기](./Book/인문학으로%20읽는%20기독교이야기.md)
         
