@@ -1,6 +1,6 @@
 # Science and Theology
 
-## Dialog Model
+## Dialogue Theory
 
 * Whitehead: 哲学 宗教，艺术，科学
 
@@ -8,14 +8,14 @@
 It must come from the medieval insistence on the rationality of God, conceived as with the personal energe of Jehovah and with the rationality of a Greek philosopher. Every detail was supervised and ordered: the search into nature could only result in the vindication of the faith in rationality. … My explanation is that the faith in the possibility of science, generated antecedently to the development of modern scientific theory, is an unconscious derivative from medieval theology.”[^1]
 
 
-## Conflict Model
+## Conflict Theory
 
 * 道金斯和进化生物学：基因(gene)和文化模因(meme)
 
 “The gene, the DNA molecule, happens to be the replicating entity that prevails on our own planet. … The new soup is the soup of human culture. … Just as genes propagate themselves in the gene pool by leaping from body to body via sperms or eggs, so memes propagate themselves in the meme pool by leaping from brain to brain via a process which, in the broad sense, can be called imitation. …  
 Consider the idea of God. … How does it replicate itself? By the spoken and written word, aided by great music and great art. Why does it have such high survival value? … The survival value of the god meme in the meme pool results from its great psychological appeal. It provides a superficially plausible answer to deep and troubling questions about existence. It suggests that injustices in this world may be rectified in the next. … God exists, if only in the form of a meme with high survival value, or infective power, in the environment provided by human culture.”[^2]
 
-## Integrated model
+## Integration Theory
 
 * Polkinghorne
 
@@ -23,7 +23,7 @@ Consider the idea of God. … How does it replicate itself? By the spoken and wr
 
 “In the beginning was the big bang. … Theological discourse on the doctrine of creation must be consonant with that account. … Needless to say, lighthearted claims that modern physics has provided its own version of creation ex nihilo completely miss the point. They are based on speculations about what might have happened in that intrinsically quantum cosmos before the formation of spatial order at the Planck time of 10-43 seconds. We need to bear in mind the warning uttered by the great Russian theoretical physicist, Lev Landau, that his cosmologist friends were ‘often in error but never in doubt’.”[^8]
 
-## Independent Model
+## Independence Theory
 
 * Rudolf Bultmann
 
