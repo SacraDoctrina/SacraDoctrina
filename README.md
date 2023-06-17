@@ -2,6 +2,16 @@
 Sacra Doctrina
 
 * Biblical Theology
+    * Biblical Criticism
+        * [Source Criticism](./Biblical%20Criticism/Source%20Criticism.md)
+        * [Form Criticism](./Biblical%20Criticism/Form%20Criticism.md)
+        * [Tradition History](./Biblical%20Criticism/Tradition%20History.md)
+        * [Redaction Criticism](./Biblical%20Criticism/Redaction%20Criticism.md)
+        * [Rhetorical Criticism](./Biblical%20Criticism/Rhetorical%20Criticism.md)
+        * [Canonical Criticism](./Biblical%20Criticism/Canonical%20Criticism.md)
+        * [New Criticism](./Biblical%20Criticism/New%20Criticism.md)
+        * [Reader-Response Criticism](./Biblical%20Criticism/Reader-Response%20Criticism.md)
+
     * Structure Analysis
         * [约伯记](./Structure%20Analysis/Job.md)
         * [传道书](.//Structure%20Analysis/Ecclesiastes.md)
@@ -32,4 +42,5 @@ Sacra Doctrina
     * Library
         * [A History of Christian Thought](./Library/A%20History%20of%20Christian%20Thought.md)
         * [Being and Time](./Library/Being%20and%20Time.md)
+        * [인문학으로 읽는 기독교이야기](./Library/인문학으로%20읽는%20기독교이야기.md)
         
