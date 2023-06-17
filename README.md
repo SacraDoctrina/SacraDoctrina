@@ -11,7 +11,6 @@ Sacra Doctrina
         * [Canonical Criticism](./Biblical%20Criticism/Canonical%20Criticism.md)
         * [New Criticism](./Biblical%20Criticism/New%20Criticism.md)
         * [Reader-Response Criticism](./Biblical%20Criticism/Reader-Response%20Criticism.md)
-
     * Structure Analysis
         * [约伯记](./Structure%20Analysis/Job.md)
         * [传道书](.//Structure%20Analysis/Ecclesiastes.md)
