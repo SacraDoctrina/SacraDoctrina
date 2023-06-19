@@ -12,6 +12,17 @@
 * [JSTOR](https://www.jstor.org/)
 * [Loeb Classical Library](https://www.loebclassics.com/)
 * [ProQuest Dissertations & Theses(PQDT) Global]
+* [中国基督教书刊](http://chinachristianbooks.org/home/)
+
+## Platform
+
+* [汉语基督教研究网](https://chinesecs.cn/)
+* [海外校園](https://blog.oc.org/)
+* [United Student Care Outreach]
+* [ChinaSource](https://www.chinasource.org/)
+* [Thriving Turtles](https://www.thrivingturtles.org/)
+* [基督使者协会](https://www.afcinc.org/)
+* [恩福文化宣教使團](https://theblessingsfoundation.org/)
 
 ## Bible Study Platform
 
@@ -40,6 +51,8 @@
 * [Theological Forum](https://ysugst.yonsei.ac.kr/ysugst/forum/read.do)
 * [Homiletic](https://homiletic.net/)
 * [International Journal of Homiletics](https://www.societas-homiletica.org/)
+* [有盏灯](https://ocfuyin.org/)
+* [举目](https://behold.oc.org/)
 
 ## Collection:
 
