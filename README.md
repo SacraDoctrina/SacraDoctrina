@@ -43,8 +43,9 @@ Sacra Doctrina
 ## Practical Theology
 
 * Ketuvim
-    * [Library](./Ketuvim/Library.md)
+    * [Adagia](./Ketuvim/Adagia.md)
     * [koinonia](./Ketuvim/koinonia.md)
+    * [Library](./Ketuvim/Library.md)
 * Book
     * [A History of Christian Thought](./Book/A%20History%20of%20Christian%20Thought.md)
     * [Being and Time](./Book/Being%20and%20Time.md)
