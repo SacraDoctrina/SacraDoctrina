@@ -24,6 +24,10 @@
 * [基督使者协会](https://www.afcinc.org/)
 * [恩福文化宣教使團](https://theblessingsfoundation.org/)
 
+## Theological Education
+
+* [提摩太国际教育学院](https://timotai.org/)
+
 ## Bible Study Platform
 
 * [AccordanceBible](https://www.accordancebible.com/)
@@ -38,6 +42,8 @@
 * International Critical Commentary
 * New Interpreters' Bible
 
+## Group Bible Study
+* [OC橄榄社区](http://ocochome.info/)
 
 ## Academic Society
 
@@ -53,6 +59,7 @@
 * [International Journal of Homiletics](https://www.societas-homiletica.org/)
 * [有盏灯](https://ocfuyin.org/)
 * [举目](https://behold.oc.org/)
+* [宣能集 Synergy](https://synergychina.org/)
 
 ## Collection:
 
