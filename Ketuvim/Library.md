@@ -17,6 +17,7 @@
 * [LacusCurtius](https://penelope.uchicago.edu/Thayer/E/home.html)
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
 * [Thesaurus Linguae Latinae](https://thesaurus.badw.de/en/project.html)
+* [Richard Rufus of Cornwall](http://rrp.stanford.edu/)
 
 ## Platform
 
