@@ -43,6 +43,7 @@
 * New Interpreters' Bible
 
 ## Group Bible Study
+
 * [OC橄榄社区](http://ocochome.info/)
 
 ## Academic Society
