@@ -4,6 +4,7 @@
 
 * [Internet Archive](https://archive.org/)
 * [Christian Classics Ethereal Library](https://www.ccel.org/)
+* [Corpus Corporum](https://mlat.uzh.ch/)
 * [EBSCO](https://search.ebscohost.com/)
 * [Internet Sacred Text Archive](https://www.sacred-texts.com/)
 * [FreeCommentaries](https://freecommentaries.com/)
@@ -13,6 +14,9 @@
 * [Loeb Classical Library](https://www.loebclassics.com/)
 * [ProQuest Dissertations & Theses(PQDT) Global]
 * [中国基督教书刊](http://chinachristianbooks.org/home/)
+* [LacusCurtius](https://penelope.uchicago.edu/Thayer/E/home.html)
+* [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
+* [Thesaurus Linguae Latinae](https://thesaurus.badw.de/en/project.html)
 
 ## Platform
 
