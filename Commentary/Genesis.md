@@ -1,5 +1,10 @@
 # THE BOOK OF GENESIS
 
+The Book of Genesis : chapters 1-17 / by Victor P. Hamilton.
+Grand Rapids, Mich. : W.B. Eerdmans, c1990.
+The New international commentary on the Old Testament
+ISBN: 0802823084
+
 ## INTRODUCTION
 
 ### STRUCTURE
