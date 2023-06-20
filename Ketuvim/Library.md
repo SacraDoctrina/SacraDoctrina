@@ -18,6 +18,7 @@
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
 * [Thesaurus Linguae Latinae](https://thesaurus.badw.de/en/project.html)
 * [Richard Rufus of Cornwall](http://rrp.stanford.edu/)
+* [Reading Room Archives](https://reading-rooms.tyndale.ca/)
 
 ## Platform
 
