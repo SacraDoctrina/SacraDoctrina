@@ -1,6 +1,8 @@
-## THE BOOK OF GENESIS
+# THE BOOK OF GENESIS
 
-## STRUCTURE
+## INTRODUCTION
+
+### STRUCTURE
 
 these is the descendants(or generations) of X:
 
@@ -29,13 +31,13 @@ The clear-cut division between chs. 11 and 12 has provided sufficient evidence f
 
 Genesis is moving us progressively from generation(chs. 1-2), to degeneration(chs. 3-11), to regeneration(chs. 12-50).
 
-## COMPOSITION
+### COMPOSITION
 
 Discussion about Genesis' coomposition has run in cycles - in two uneven cucles at least - for the last ro millennia. 
 The 
 The second approach: French phusician Jean Astruc. ... his conclusion was that oses was the redactor (not the author) of Gen. 1-Exod. 2, and that Moses collated two primary, parallel sources ("Yahweh" & "Elohim"), plus ten other fragments. All of these were written before Moses' time. ... his views actually represent a measured response to the free-thinkers of his day on the question of the Mosaic authorship of the Pentateuch.
 
-Jean Astruc - J. G. Eichhorn - Julius Whellhausen
+* Jean Astruc - J. G. Eichhorn - Julius Whellhausen
 
 1. The Yahwist (J) (850 B.C. - Wellhausen; 960-930 B.C. - post-Wellhausen scholars), written anonymously in Judah during the reign of Solomon. This source traces Israel's history from its patriarchal beginnings to its preparation for entry into Canaan; narratives from prepatriarchal times were added at some point. It may have functioned as the national epic for the Davidic/Solomonic kingdom. "J" is the symbol for this document, primarily because of its almost exclusive use of "Yahweh."
 
@@ -50,6 +52,14 @@ Reasons:
 2. The presence of duplications, a story told twice (or thrice), but in in such a way that the two accounts are irreconcilable. 两个创造故事(1;1-2:4a and 2:4bff.)/两个洪水故事/两个上帝和亚伯拉罕立约（chs. 15 and 17/夏甲被驱逐(chs. 16 and 21)/雅各改名(chs. 32 and 35)/约瑟被卖(37:25-27, 28b and 37:28b, 36)/妻子被卖(chs. 12, 20 and 26)
 3. The presence of anachronisms, which must be dated much later than the patriarchal or the Mosaic period. 
 4. The detection in Genesis of distinctive literary styles or religious ideology whthin a section or unit. 
+
+雅各：北国以色列  
+亚伯拉罕：南国犹大  
+
+* Hermann Gunkel (1862-1932) <The Legends of Genesis>  
+Gunkel argued for case or classifying this material into the appropriatr categories of aral forms(narratives, humns, laws, etc.) and literary genres (of which the most prominent in Gen. 12-50 is saga).
+
+* Martin Noth
 
 
 [^18]: The same kind of tripartite geographical focus emerges from Exodus: (1) 1:1-12:36, in Egypt; (2) 12:37-18:27, to Sinai; (3) 19:1-40:38, at Sinai. 
