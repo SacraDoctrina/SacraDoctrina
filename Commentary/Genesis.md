@@ -57,11 +57,42 @@ Reasons:
 亚伯拉罕：南国犹大  
 
 * Hermann Gunkel (1862-1932) <The Legends of Genesis>  
-Gunkel argued for case or classifying this material into the appropriatr categories of aral forms(narratives, humns, laws, etc.) and literary genres (of which the most prominent in Gen. 12-50 is saga).
 
 * Martin Noth
+五个主题
+1. God promised to Abraham 
+2. The Exodus theme 
+3. the cinquest theme 
+4. the wilderness theme 
+5. the Sinai theme
+
+组成阶段（W-G-N）
+1. The oral formation of small narratives, 1800-1200 B.C. (Gunkel) 
+2. The assembling of these smaller narratives into larger complexes around history-like themes, as part of a liturgical affirmation of faith in community acts of worship, 1200-1000 B.C.[^14] (Noth) 
+3. The writing of the J source, 950 B.C.
+4. The writing of the E source, 850 B.C.
+5. The redaction of JE
+6. The writing of the P source, 550 B.C. or later
+7. The redaction of JEP, either by P himself or by an independent editor, ca. 400 B.C (nos. 3-7, Wellhausen)
+
+Van Seter suggests, on the contrary, an exclusively literary development for the Abraham tradition which is spread over five stages: (1) a pre-Yahwistic first stage; (2) a pre-Yahwistic second stage (= E?); (3) Yahwist; (4) Priestly; (5) post-Priestly. Thus Van Seters rejects Wellhausen's JEDP and Cross's JE < P, and erects his own J1EJ2P Post-P. Everything in Gen. 12-26 is assigned to one of these five segments.
+
+For Van Seters there is no historical Abraham, but onlu a kerygmatic Abraham.
+
+* H. H. Schmid
+
+Schmid's thesis is that the texts of the Yahwist presuppose the preexilic prophets and/or Deuteronomic theology.
+
+* Rolf Rendtorff
+
+In lieu of JE, D, and P, Rendtorff proposes the independent existence of six larger units: (1) primeval history; (2) patriarchal history; (3) the Exodus story; (4) the Sinai experience; (5) the sojourn in the wilderness; and (6) settlement in the land.
+
+相似类型的文献：Samaritan Pentateuch and the Gilgamesh Epic.[^27]
+
+* Isaac M. Kikawada (Rhetorical Criticism)
 
 
 [^18]: The same kind of tripartite geographical focus emerges from Exodus: (1) 1:1-12:36, in Egypt; (2) 12:37-18:27, to Sinai; (3) 19:1-40:38, at Sinai. 
 [^20]: The same disproportion appears in the Pentateuch at large. Genesis, covering the time span from the creatioin of the world to Joseph, occupies approximately 25 percent of the total text of the Pentateuch. Exodus-Deuteronomy, covering only the time span of Moses' 120 years, occupies 75 percent of the total text of the Pentateuch. See R. P. Knierim, "The Composition of the Pentateuch," in SBLASP, 1985, p. 395.
 [^21]: See W. Brueggemann, The Land, OBT 1 (Philadelphia: Fortress, 1977), p. 15.
+[^27]: On the former, see J. H. Tigay, "An Empirical Basis for the Documentary Hypothesis," JBL 94 (1975) 329-42; on the latter, see idem, The Evolution of the Gilgamesh Epic (Philadelphia: University of Pennsylvania, 1982).
