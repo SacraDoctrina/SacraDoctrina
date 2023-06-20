@@ -91,8 +91,44 @@ In lieu of JE, D, and P, Rendtorff proposes the independent existence of six lar
 
 * Isaac M. Kikawada (Rhetorical Criticism)
 
+* Sven Tengström
+
+### THEOLOGY
+
+"The whole has nevertheless a scaffolding supporting it and connecting it, the so-called promise to the patriarchs, At least it can be said thar this whole variegated mosaic of studies is given cohesion of subject-matter ... by means of the constantly recurring divine promise."[^41]
+
+"The constant element in the midst of all the changing situations of this very chequered history."[^42]
+
+* Hoftijzer, Westermann, Rendtorff, Lohfink, and Emerton
+
+The interesting point in all of these instances of aberrant behavior is that God never clearly rebukes any of the patriarchs. He sends no voice of conscience after them, no Nathan with his condemning "you are the man." The closest element to a divine rebuke is found in Yahweh's word to Abraham about Sarah - "Why did Sarah laugh?" (18:13, followed by the accusation and denial, v. 15). So there is a "Why did Sarah laugh?" but no "Why did Abraham lie?" or "Why did Jacob deceive?" or "Why did Joseph frame?"
+
+All readers of Genesis have noticed the often dubious, even immoral, antics of the three patriarchs. By itself, this immorality is not unique, for Scripture is loaded with similar incidents in the lives of others of its characters. Witness a Saul, a David, a Solomon, one of the kings, or Israel as a whole (often portrayed as a harlot). In each of those instances, however, the culpable one pays a high price for disregarding God's law.
+
+Either of these approaches misses the focus of Gen. 12-50. Genesis is not interested in parading Abraham, Isaac, and Jacob as examples of morality. Therefore, it does not moralize on them. What Gen. 12-50 is doing is bringing together the promises of God to the patriarchs and the faithfulness of God in keeping those promises. Even if the bearers of those promises represent the greatest threat to the promises, the individual lives of the promise bearers cannot abort those promises. Whenever they find themselves in a delicate situation (in Egypt, in prison, with another not one's spouse, running from one's brother, in famine), God saves his elected own from destruction. God will no more scrap this chosen family, their moral inadequacies notwithstanding, as an object of his blessing and as the light and salt of the earth's nations, than he would scrap the new covenant equivalent of this family, that is, the church (Gk. ekklēsía, "the called").
+
+So then, Gen. 12-50 is to be read as an illustration of God's faithfulness to his promises. 
+
+First Isaac spoke to Yahweh (25:21). Now Yahweh speaks to Isaac (26:2-5). As with Yahweh's first speech to Abram, the progression is from imperative ("do not go down"; "live"; "stay") to future indicatives. The promises include (1) the divine presence; (2) blessing: (3) descendants; (4) land; and (5) oath confirmation.
+
+The interesting added point is that Yahweh makes these promises to Isaac only "because Abraham obeyed me and kept... my laws" (26:5). The father's "so Abram left" (12:4) is matched by the son's "so Isaac stayed" (26:6) The direct beneficiary of Abraham's faithful obedience is Isaac. Isaac receives the promises not because of his own behavior, although it is model thus far, but because of his father's behavior. Both Abraham's faith and his obedience pave the way for God's promises to move toward realization. Even Yahweh's promise to be "with Isaac" (26:3, 23) finds immediate fulfillment in the Gerarites' response, "we saw clearly that Yahweh was with you" (26:28). However, the promise of God's presence and blessing with him prevents neither grief (26:35) nor embarrassment and confusion (27:1ff.) for Isaac.
+
+It is of no little interest, however, that in the four theophanies involving Jacob (28:10-22; 32:22-31; 35:9-13; 46:2-4), God does not speak one word about any of Jacob's unethical actions. On the contrary, each theophany contains some kind of promise.
+
+Childs remarks, "It is astonishing to see the extent to which the ethical difficulties of the Genesis story are completely disregarded. The narrative is read to illustrate something entirely different, namely the faithfulness of God."[^43] Unholy acts do not sidetrack the holy, decretive will of God. This is what Childs calls repeatedly "the theocentric interpretation" of Gen. 12-36 by the rest of the OT canon.
+
+Clines discusses three suggested themes for Gen. 1-11, the first two originally forwarded by von Rad and Westermann.[^44] These three are: (1) a Sin-Speech-Mitigation-Punishment theme: (2) a Spread-of-Sin, Spread-of-Grace theme; (3) a Creation-Uncreation-Re-creation theme.
+
+To be sure, throughout these narratives the voice of grace and promise is not muted. Adam and Eve are clothed. A seed of Eve is promised who will crush the snake. Cain is divinely protected. God announces a covenant never to flood the earth again. We suggest that all of these redemptive acts of God move toward the major divine action against sin and evil. This action comes about by the juxtaposition of chs. 1-11, which concern the families of the earth, and ch. 12, which focuses on the chosen family. The families of the earth will never be reconciled to God simply by clothing, or by a sign on the forehead, or by the absence of a deluge, as comforting as they may be.
+
+The election of Abraham is not designed to isolate this family from the other families of the earth. On the contrary, this family is to become the vehicle by which all families of the earth may be reconciled to God. In Abraham and in his descendants "all the nations of the earth are to be blessed." Thus the selection of Abraham's family is a means to an end in God's overall plan for his world. How will this blessing come about? Gen. 12:1ff. makes it clear that reconciliation with God is possible only when there is reconciliation with Abraham, or at least the absence of strife. One cannot be reconciled with God and be at odds with Abraham. "I will bless/curse those who bless/curse you," is the promise of ch. 12 and elsewhere. Abraham and his descendants are nothing less than a mediator and a catalyst of God's promised blessing. Chs. 12-50 perhaps should not be read as "Paradise Regained," but they may be read as "Reconciliation Regained" or "Hope Regained." Chs. 12-50 do not recapture chs. 1-2, but they do resolve the dilemma of chs. 3-11, which is the problem of escalating trespass for which a lasting solution is needed.
+
 
 [^18]: The same kind of tripartite geographical focus emerges from Exodus: (1) 1:1-12:36, in Egypt; (2) 12:37-18:27, to Sinai; (3) 19:1-40:38, at Sinai. 
 [^20]: The same disproportion appears in the Pentateuch at large. Genesis, covering the time span from the creatioin of the world to Joseph, occupies approximately 25 percent of the total text of the Pentateuch. Exodus-Deuteronomy, covering only the time span of Moses' 120 years, occupies 75 percent of the total text of the Pentateuch. See R. P. Knierim, "The Composition of the Pentateuch," in SBLASP, 1985, p. 395.
 [^21]: See W. Brueggemann, The Land, OBT 1 (Philadelphia: Fortress, 1977), p. 15.
 [^27]: On the former, see J. H. Tigay, "An Empirical Basis for the Documentary Hypothesis," JBL 94 (1975) 329-42; on the latter, see idem, The Evolution of the Gilgamesh Epic (Philadelphia: University of Pennsylvania, 1982).
+[^41]: G. von Rad, Old Testament Theology, tr. D. M. G. Stalker, 2 vols. (New York: Harper & Row, 1962-65), 1:167. 
+[^42]: B. S. Childs, Introduction to the Old Testament as Scripture (Philadelphia: Westminster, 1979), p. 151.
+[^43]: Childs, Old Testament Theology, p. 215.
+[^44]: Clines, Theme of the Pentateuch, pp. 61ff
