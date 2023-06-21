@@ -72,3 +72,4 @@
 
 * [Isenheim Altarpiece](https://en.wikipedia.org/wiki/Isenheim_Altarpiece)
 * [The Death of the Wife of the Biblical Prophet Ezekiel](https://philamuseum.org/collection/object/59859)
+* [Saint Augustine in His Study by Sandro Botticelli, 1494, Uffizi Gallery](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_St_Augustin_dans_son_cabinet_de_travail.jpg)
