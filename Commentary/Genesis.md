@@ -171,6 +171,10 @@ Certainly one of the main characteristics of patriarchal religion is its emphasi
 
 That the patriarchs prayed (18:23-33; 25:21; 28:20-22), built altars (12:7, 8; 13:18; 26:25; 33:20; 35:3, 7), offered sacrifices (22:13; 31:54), and practiced circumcision (17:9-14, 23-27) does not make patriarchal religion something unique. These were practices that Israel's ancestors either brought with them from Mesopotamia or observed while in Canaan or in Egypt. It is even quite possible that the patriarchs brought with them from Mesopotamia their knowledge of their deity El, and that such perceptions were reinforced by exposure to the cults of the Elim scattered throughout Canaan. What sets patriarchal religion apart from Bronze Age counterparts is not its outward ritual, but rather its conception of God as one who elects, one who promises, one who is mobile, and one who brings into a close relationship with himself those he has called.[^59]
 
+## TEXT AND COMMENTARY
+
+
+
 [^18]: The same kind of tripartite geographical focus emerges from Exodus: (1) 1:1-12:36, in Egypt; (2) 12:37-18:27, to Sinai; (3) 19:1-40:38, at Sinai. 
 [^20]: The same disproportion appears in the Pentateuch at large. Genesis, covering the time span from the creatioin of the world to Joseph, occupies approximately 25 percent of the total text of the Pentateuch. Exodus-Deuteronomy, covering only the time span of Moses' 120 years, occupies 75 percent of the total text of the Pentateuch. See R. P. Knierim, "The Composition of the Pentateuch," in SBLASP, 1985, p. 395.
 [^21]: See W. Brueggemann, The Land, OBT 1 (Philadelphia: Fortress, 1977), p. 15.
