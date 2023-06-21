@@ -159,9 +159,9 @@ Several things separate patriarchal religion from Mosaic religion. For one thing
 
 One final point. The religion of the patriarchs is an ante-Mosaic faith (which does not mean an anti-Mosaic faith). Thus the patriarchal religion pre-covenant, pre-tabernacle, and pre-priestly. The implication of this point is that there are no representatives between the patriarchs and the God of the patriarchs, such as Moses or the priests or the prophets were for Israel. Accordingly revelation will be direct.
 
-traditio-historical approach & comparative religion approach
-A. Alt[^55] & F. M. Cross[^56]
-评价[^57]
+traditio-historical approach & comparative religion approach  
+A. Alt[^55] & F. M. Cross[^56]  
+评价[^57]  
 
 One last item calls for discussion, and that is the issue of whether the patriarchs knew God as Yahweh. 
 
