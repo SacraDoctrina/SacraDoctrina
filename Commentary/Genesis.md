@@ -128,6 +128,48 @@ To be sure, throughout these narratives the voice of grace and promise is not mu
 
 The election of Abraham is not designed to isolate this family from the other families of the earth. On the contrary, this family is to become the vehicle by which all families of the earth may be reconciled to God. In Abraham and in his descendants "all the nations of the earth are to be blessed." Thus the selection of Abraham's family is a means to an end in God's overall plan for his world. How will this blessing come about? Gen. 12:1ff. makes it clear that reconciliation with God is possible only when there is reconciliation with Abraham, or at least the absence of strife. One cannot be reconciled with God and be at odds with Abraham. "I will bless/curse those who bless/curse you," is the promise of ch. 12 and elsewhere. Abraham and his descendants are nothing less than a mediator and a catalyst of God's promised blessing. Chs. 12-50 perhaps should not be read as "Paradise Regained," but they may be read as "Reconciliation Regained" or "Hope Regained." Chs. 12-50 do not recapture chs. 1-2, but they do resolve the dilemma of chs. 3-11, which is the problem of escalating trespass for which a lasting solution is needed.
 
+### PROBLEMS IN INTERPRETATION
+
+* The "days" of genesis 1
+
+The literal understanding of "day" in Gen. 1 teaches that God created and then populated his world in a 144-hour period(6 24-hour days).[^51]
+
+Two caveats are in order. First, the literal understanding of "days" is not necessarily a more spiritual and biblical interpretation, and therefore is not inherently preferable. second, a conservative reading of Gen. 1 does not always prodce a conservative conclusion. 
+
+A variation of the literal understanding of "day" is to read it as designating epoches.(Ps. 90:4)
+
+The third approach to "day" in Gen. 1 is literary interpretation. This approach leaces open the possibility for taking "day" literally or nonliterally.
+
+* Genesis as myth
+
+Bultmann has given the classic definition of this approach to myth: "Mythology is the use of inagery to express the otherworldly in terms of this world and the divine in terms of human life, the other side in terms of this side."[^52] ... Bultmann's interest is in demythologizing the text, not in dekerygmatizing it (which is what a thoroughgoing "liberal" would do).
+
+One recent writer has isolated nine definitions of myth and another documents twelve aspects of myth.[^53]
+
+Myth is spawned by a worldview in which the difference between God and natrue is nonexistent. 
+
+* THe patriarchs and history
+
+"Here [in Genesis] no historical knowledge about the patriarchs is to be gettten, but only the period in which the stories about them arose among thr Israelite people. This later period was simply to be projected back into hoary antiquity and reflected there like a glorified mirage."[^54]  
+"no historical patriarchs" VS. "no historical knowledge about the patriarchs"
+
+* The religion of the patriarchs
+
+Several things separate patriarchal religion from Mosaic religion. For one thing, Abraham in particular is rooted directly, via his family, in a pagan, polytheistic milieu. It is one thing for Abraham to leave his world geographically. But how shall he leave it theologically? （撒母耳都分不清以利的声音和上帝的声音，亚伯拉罕怎样识别出来上帝的呃声音的呢？）
+
+One final point. The religion of the patriarchs is an ante-Mosaic faith (which does not mean an anti-Mosaic faith). Thus the patriarchal religion pre-covenant, pre-tabernacle, and pre-priestly. The implication of this point is that there are no representatives between the patriarchs and the God of the patriarchs, such as Moses or the priests or the prophets were for Israel. Accordingly revelation will be direct.
+
+traditio-historical approach & comparative religion approach
+A. Alt[^55] & F. M. Cross[^56]
+评价[^57]
+
+One last item calls for discussion, and that is the issue of whether the patriarchs knew God as Yahweh. 
+
+To be sure, the understanding of God possessed by God's people, individuals or groups, advanced with the passing of time. Abraham saw through a glass dimly. He was both a product of his times and one who transcended his times. It is unlikely he ever worked out, or could have worked out, a theological disquisition on monotheism. But he had a relationship with his God that was dynamic, trusting, maturing, and tested.
+
+Certainly one of the main characteristics of patriarchal religion is its emphasis on a covenant by which the God of the patriarchs enters into a personal relationship with the patriarchs. Abraham is not a seeker after God, at least not at first. Rather, God is a seeker after Abraham. It is God who appears to Abraham and calls him to follow obediently. He is a God who makes both promises and demands, and usually in that order. Thus, in Gen. 12-50, God is associated more with individuals than with places, concerned more with the formation of holy lives than the sanctification of cultic sites. This emphasis sets apart patriarchal religion from Canaanite religion in which deities are attached to holy places. To be sure, the ancestors of Israel visited the environs of such holy sites (e.g., Bethel, Gen. 28:17, "the gate of heaven"), but such sites were resting points, not places of settlement. For the mobile God of the fathers is not himself bound to any place. There is no "is not this Jerusalem which I have chosen?" in Gen. 12-50, or any predecessor of Jerusalem. Abraham, Isaac, and Jacob are challenged to live lives of wandering and adventure, but it is not aimless wandering. What makes the wandering significant is the patriarchs' realization that "their family life is in the hand of the mobile God, who leads them into the future, toward the realization of the divine promises."[^58]
+
+That the patriarchs prayed (18:23-33; 25:21; 28:20-22), built altars (12:7, 8; 13:18; 26:25; 33:20; 35:3, 7), offered sacrifices (22:13; 31:54), and practiced circumcision (17:9-14, 23-27) does not make patriarchal religion something unique. These were practices that Israel's ancestors either brought with them from Mesopotamia or observed while in Canaan or in Egypt. It is even quite possible that the patriarchs brought with them from Mesopotamia their knowledge of their deity El, and that such perceptions were reinforced by exposure to the cults of the Elim scattered throughout Canaan. What sets patriarchal religion apart from Bronze Age counterparts is not its outward ritual, but rather its conception of God as one who elects, one who promises, one who is mobile, and one who brings into a close relationship with himself those he has called.[^59]
 
 [^18]: The same kind of tripartite geographical focus emerges from Exodus: (1) 1:1-12:36, in Egypt; (2) 12:37-18:27, to Sinai; (3) 19:1-40:38, at Sinai. 
 [^20]: The same disproportion appears in the Pentateuch at large. Genesis, covering the time span from the creatioin of the world to Joseph, occupies approximately 25 percent of the total text of the Pentateuch. Exodus-Deuteronomy, covering only the time span of Moses' 120 years, occupies 75 percent of the total text of the Pentateuch. See R. P. Knierim, "The Composition of the Pentateuch," in SBLASP, 1985, p. 395.
@@ -136,4 +178,13 @@ The election of Abraham is not designed to isolate this family from the other fa
 [^41]: G. von Rad, Old Testament Theology, tr. D. M. G. Stalker, 2 vols. (New York: Harper & Row, 1962-65), 1:167. 
 [^42]: B. S. Childs, Introduction to the Old Testament as Scripture (Philadelphia: Westminster, 1979), p. 151.
 [^43]: Childs, Old Testament Theology, p. 215.
-[^44]: Clines, Theme of the Pentateuch, pp. 61ff
+[^44]: Clines, Theme of the Pentateuch, pp. 61ff.
+[^51]: See, e.g., H. Morris, The Remarkable Birth of Planet Earth (Minneapolis: Bethany House, 1972)
+[^52]: R. Bultmann, Kerygma and Myth, tr. R. H. Fuller, ed. H. W. Bartsch (New York: Harper & Row, 1961), p. 10 n. 2
+[^53]: The former is G. B. Caird, *The Language and Imagery of the Bible* (Philadelphia: Westminster, 1980), pp. 219-24. The latter is J. W. Rogerson, *Myth in Old Testament Interpretation*, BZAW 134 (Berlin/New York: de Gruyter, 1974), pp174-78.
+[^54]: J. Wellhausen, *Prolegomena to the History of Israel*, p. 318.
+[^55]: A. Alt, *Essays on Old Testament History and Religion*, tr. R. A. Wilson (Garden City, NY: Doubleday, 1968), pp. 3-86.
+[^56]: F. M. Cross, "Yahweh and the God of the Patriarchs," HTR 55 (1962) 225-59; idem, *Canaanite Myth and Hebrew Epic* (Cambridge: Harvard University, 1973)
+[^57]: For brief evaluations of Alt's and Cross's views see G. J. Wenham, "The Religion of the Patriarchs," in Essays on the Patriarchal Narratives, pp. 161-95, esp. 172-73 (Alt) and 176-79 (Cross).
+[^58]: B. W. Anderson, *Understanding the Old Testament*, 4th ed. (Englewood Cliffs, NJ: Prentice-Hall, 1986), p. 45. 
+[^59]: W. S. LaSor, D. A. Hubbard, and F. W. Bush, *Old Testament Survey* (Grand Rapids: Eerdmans, 1982), p. 111.
