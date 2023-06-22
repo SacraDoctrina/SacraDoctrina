@@ -20,6 +20,10 @@
 * [Richard Rufus of Cornwall](http://rrp.stanford.edu/)
 * [Reading Room Archives](https://reading-rooms.tyndale.ca/)
 
+## Encyclopedia
+
+* [SEP](https://plato.stanford.edu/index.html)
+
 ## Platform
 
 * [汉语基督教研究网](https://chinesecs.cn/)
@@ -38,6 +42,7 @@
 
 * [AccordanceBible](https://www.accordancebible.com/)
 * [Logos](https://www.logos.com/)
+* [BibleProject](https://bibleproject.com/)
 
 ## Commentary
 
