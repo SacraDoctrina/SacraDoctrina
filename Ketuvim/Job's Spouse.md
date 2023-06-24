@@ -40,7 +40,7 @@ By faith Jacob, **when dying, blessed** each of the sons of Joseph, “bowing in
 
 ## Ketuvim
 
-所以，在自己心里，约伯妻子的形象呢？该怎样形容约伯的妻子呢？如果，约伯的妻子有名字的话？
+所以，在自己心里，约伯妻子形象如何呢？该怎样形容约伯的妻子呢？如果，约伯的妻子有名字的话？
 
 
 [^1]: V. Maag, Hiob. Wandlung und Verarbeitung des Problems in Novelle, Dialogdichtung und Spätfassungen (Göttingen: Vandenhoeck & Ruprecht, 1982), 82;
