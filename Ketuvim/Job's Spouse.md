@@ -17,15 +17,30 @@ Job's wife as hero: "Cursea God, and die."(NRSVS) 通过在第三章开始的约
 
 이런 상태가 오랜 지속되던 어느 날 욥의 아내가 그에게 말하였다. "단신은 도대체 언제까지 그렇게 버티고 있을 작정이에요? 조금만 더 기다리신다고요? 이런 처지에서 구원받을 날이 올 것이라는 희망을 아직도 갖고 계신 거예요? 여보, 날 좀 보세요. 이제 이 세상에서 당신을 기억해 줄 사람은 아무도 없어요. 당신에게는 당신을 기억해 줄 자식도 하나 없어요. 내가 해산의 고통을 격고 나은 자식들, 내가 온갖 고생 다해가면서 키운 자식들, 다 없어졌어요. 다신은 바깥에서 이렇게 거름더미 위에서 밤을 지새우고 있고, 나는 이곳 저곳, 이 집 저 집 돌아다니면서 종살이나 하고 있고, 이 지긋지긋한 고된 일에서 잠시나마 벗어나 보려는 생각에서 하루 종일 해지기만 기다리는 신세가 되어버렸어요. **제발 주님께 뭐라고 좀 말하고 나서 죽어버리세요**"[^11]
 
+《七十士译本》在约伯记2:9节提供了相对来说大篇的内容，那么是《七十士译本》附加的解释呢，还是希伯来文原本就有这一段呢？都不好说... 但是最起码有了前面的铺垫，相比起来2:9约伯妻子的话更容易被接纳（我想，约伯的妻子是出于安慰的意图）
+
 וְיֵשׁ אוֹמְרִים אִיּוֹב בִּימֵי יַעֲקֹב הָיָה וְדִינָה בַּת יַעֲקֹב נָשָׂא כְּתִיב הָכָא כְּדַבֵּר אַחַת הַנְּבָלוֹת תְּדַבֵּרִי וּכְתִיב הָתָם כִּי נְבָלָה עָשָׂה בְיִשְׂרָאֵל
 
 And some say that Job lived in the days of Jacob and that he married Dina, the daughter of Jacob. As it is written here: “You speak as one of the loathsome women speaks” (Job 2:10), and it is written there in the account of the incident involving Dina: “He has done a loathsome act in Israel” (Genesis 34:7).[^20]
+
+尽管只是假设，但是如果约伯的妻子真的是底拿，两位如此‘老练’的人的婚姻... 该去怎么体会呢？
 
 ## בָּרֵ֥ךְ אֱלֹהִ֖ים וָמֻֽת
 
 "Bless God and die!"
 
 By faith Jacob, when dying, blessed each of the sons of Joseph, “bowing in worship over the top of his staff.” (NRSVS Hebrew 11:21)
+
+## 约伯妻子的形象
+
+* 在痛苦面前沉默到最后，在约伯身边陪伴到最后。
+* 为丈夫怀孕20年，怀孕生子意味着上帝的祝福，同时也意味着极大的风险。
+
+## Ketuvim
+
+
+所以，在自己心里，约伯妻子的形象呢？该怎样形容约伯的妻子呢？如果，约伯的妻子有名字的话？
+
 
 [^1]: V. Maag, Hiob. Wandlung und Verarbeitung des Problems in Novelle, Dialogdichtung und Spätfassungen (Göttingen: Vandenhoeck & Ruprecht, 1982), 82;
 [^2]: David J. A. Clines, Job 1-20 (WBC 17; Dallas: Word Books, 1989).
