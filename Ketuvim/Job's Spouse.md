@@ -23,7 +23,7 @@ Job's wife as hero: "Cursea God, and die."(NRSVS) 通过在第三章开始的约
 
 And some say that Job lived in the days of Jacob and that he married Dina, the daughter of Jacob. As it is written here: “You speak as one of the loathsome women speaks” (Job 2:10), and it is written there in the account of the incident involving Dina: “He has done a loathsome act in Israel” (Genesis 34:7).[^20]
 
-尽管只是假设，但是如果约伯的妻子真的是底拿，如此‘老练’的两位的婚姻... 该怎么去体会去描述呢？
+尽管只是假设，但是如果约伯的妻子真的是底拿，如此‘老练’的两位的婚姻... 该怎么去体会去描述呢？ 。。。联想一下，没想到，竟然会是幸福是期待？！
 
 ## בָּרֵ֥ךְ אֱלֹהִ֖ים וָמֻֽת
 
