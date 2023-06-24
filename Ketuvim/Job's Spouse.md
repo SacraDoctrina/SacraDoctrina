@@ -37,8 +37,8 @@ By faith Jacob, **when dying, blessed** each of the sons of Joseph, “bowing in
 
 * 在现实面前沉默到最后，在约伯身边陪伴到最后。
 * 为约伯怀孕20年，怀孕生子意味着上帝的祝福，同时也意味着极大的风险。
-
-... 
+* 
+* ... 
 
 ## Ketuvim
 
