@@ -6,7 +6,7 @@ Not surprisingly, many have cast her in the role of “devil‘s assistant” (A
 
 ## Job's wife as Hero
 
-Job's wife as hero: "Cursea God, and die."(NRSVS) 通过在第三章开始的约伯的埋怨与咒诅，难道不可以认为约伯的妻子对约伯的性格(?)具有更深刻的认识？[^3]
+Job's wife as hero: "Cursea God, and die."(NRSVS) 通过在第三章开始的约伯的埋怨与咒诅，难道不可以认为约伯妻子对约伯的性格(?)具有更深刻的认识？[^3]
 
 [2:9] χρόνου δὲ πολλοῦ προβεβηκότος εἶπεν αὐτῷ ἡ γυνὴ αὐτοῦ μέχρι τίνος καρτερήσεις λέγων  
 [9α] ἰδοὺ ἀναμένω χρόνον ἔτι μικρὸν προσδεχόμενος τὴν ἐλπίδα τῆς σωτηρίας μου  
@@ -29,15 +29,16 @@ And some say that Job lived in the days of Jacob and that he married Dina, the d
 
 "Bless God and die!"
 
-By faith Jacob, when dying, blessed each of the sons of Joseph, “bowing in worship over the top of his staff.” (NRSVS Hebrew 11:21)
+By faith Jacob, **when dying, blessed** each of the sons of Joseph, “bowing in worship over the top of his staff.” (NRSVS Hebrew 11:21)
+
+“בָרַךְ” 是祝福的意思，而且所有人都明白在这里其含义是反义“咒诅”，但是真的不可以被诠释为祝福吗？
 
 ## 约伯妻子的形象
 
-* 在痛苦面前沉默到最后，在约伯身边陪伴到最后。
-* 为丈夫怀孕20年，怀孕生子意味着上帝的祝福，同时也意味着极大的风险。
+* 在现实面前沉默到最后，在约伯身边陪伴到最后。
+* 为约伯怀孕20年，怀孕生子意味着上帝的祝福，同时也意味着极大的风险。
 
 ## Ketuvim
-
 
 所以，在自己心里，约伯妻子的形象呢？该怎样形容约伯的妻子呢？如果，约伯的妻子有名字的话？
 
