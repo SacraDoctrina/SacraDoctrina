@@ -23,7 +23,7 @@ Not surprisingly, many have cast her in the role of “devil‘s assistant” (A
 
 And some say that Job lived in the days of Jacob and that he married Dina, the daughter of Jacob. As it is written here: “You speak as one of the loathsome women speaks” (Job 2:10), and it is written there in the account of the incident involving Dina: “He has done a loathsome act in Israel” (Genesis 34:7).[^20]
 
-尽管只是假设，但是如果约伯的妻子真的是底拿，如此‘老练’的两位的婚姻... 该怎么去体会去描述呢？ 。。。联想一下，没想到，竟然会是幸福是期待？！
+尽管只是假设，但是如果约伯的妻子真的是底拿，如此‘老练’的两位的婚姻... 该怎么去体会去描述呢？ 。。。联想一下，应该是羡慕是憧憬是期待吧？！
 
 ## בָּרֵ֥ךְ אֱלֹהִ֖ים וָמֻֽת
 
@@ -31,13 +31,13 @@ And some say that Job lived in the days of Jacob and that he married Dina, the d
 
 By faith Jacob, **when dying, blessed** each of the sons of Joseph, “bowing in worship over the top of his staff.” (NRSVS Hebrew 11:21)
 
-原文“בָרַךְ” 是祝福的意思，而且所有人都明白在这里其含义是反义“咒诅”，但是真的不可以被诠释为祝福吗？
+原文“בָרַךְ” 是祝福的意思，而且所有人都明白在这里含义是其反义“咒诅”。但是，真的不可以被诠释为祝福吗？
 
 ## 约伯妻子的形象
 
 * 在现实面前沉默到最后，在约伯身边陪伴到最后。
 * 为约伯怀孕20年，怀孕生子意味着上帝的祝福，同时也意味着极大的风险。
-* 
+*
 * ... 
 
 ## Ketuvim
