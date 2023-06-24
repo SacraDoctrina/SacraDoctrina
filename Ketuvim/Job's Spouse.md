@@ -4,7 +4,7 @@
 
 Not surprisingly, many have cast her in the role of “devil‘s assistant” (Augustine: diaboli adjutrix); Calvin called her “Satan‘s tool,” and Thomas Aquinas thought that the Satan spared her, in the calamities of chap. 1, precisely in order to use her against Job.[^2]
 
-## Job's wife as Hero
+## Job's Wife as Hero
 
 "Cursea God, and die." (NRSVS 2:9) 通过在第三章开始的约伯的埋怨与咒诅，难道不可以认为约伯妻子对约伯的性格(?)具有更深刻的认识？[^3]
 
