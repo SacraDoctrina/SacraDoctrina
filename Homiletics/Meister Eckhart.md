@@ -1,6 +1,6 @@
 # Meister Eckhart
 
-<The Complete Work of Meister Eckhart>
+The Complete Work of Meister Eckhart
 
 ## SERMON EIGHTY_SEVEN
 
