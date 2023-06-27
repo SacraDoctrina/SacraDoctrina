@@ -2,7 +2,7 @@
 
 The Complete Work of Meister Eckhart
 
-## SERMON EIGHTY_SEVEN
+## SERMON EIGHTY-SEVEN
 
 (Pf 87, Q 52, QT 32)
 
