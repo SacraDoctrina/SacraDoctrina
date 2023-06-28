@@ -20,6 +20,7 @@
 * [Richard Rufus of Cornwall](http://rrp.stanford.edu/)
 * [Reading Room Archives](https://reading-rooms.tyndale.ca/)
 * [LUX: Yale Collections Discovery](https://lux.collections.yale.edu/)
+* [Safari Books Online](https://www.oreilly.com/)
 
 ## Encyclopedia
 
