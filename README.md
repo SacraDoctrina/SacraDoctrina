@@ -43,9 +43,13 @@ Sacra Doctrina
     * [Paul Tillich](./Modern%20Theology/Paul%20Tillich.md)
 
 ## Practical Theology
-
+* Homiletics
+    * [Homiletics](./Homiletics/Homiletics.md)
+    * [Meister Eckhart](./Homiletics/Meister%20Eckhart.md)
 * Ketuvim
     * [Adagia](./Ketuvim/Adagia.md)
+    * [creation](./Ketuvim/creation.md)
+    * [约伯妻子](./Ketuvim/Job's%20Spouse.md)
     * [koinonia](./Ketuvim/koinonia.md)
     * [Library](./Ketuvim/Library.md)
 * Book
