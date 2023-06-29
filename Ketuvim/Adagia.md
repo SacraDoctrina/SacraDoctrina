@@ -22,7 +22,7 @@ Christian doctrines are accounts of the Christian religious affections set forth
 
 Culture is a form of expression of religion, and religion is the substance of culture[die Kultur ist Ausdrucksform der Religion, und die Religion ist Inhalt der Kultur].
 
-> Paul Tillich, *What is Religion?* (New York: Harper & Row, 1969), 73; Gesammelte Werke(Stuttgart: Evangelisches Verlageswerk), 1:329. See also idem, On Art and Architecture(New York: Crossroad, 1987), 12, 205-6, 234-235. For an analysis of Tillich's theology of art, see Michael F. Palmer, Paul Tillich's Philosophy of Art(Berlin and New York: Walter de Gruyter, 1984); Jeremy S. Begbie, Voicing Creation's Praise: Towards a Theology of the Arts (Edinburgh: T&T Clark, 1991),1-77; Lindbeck's analysis of "an experiential-expressive model" in Nature of Doctrine, passim.
+> Paul Tillich, *What is Religion?* (New York: Harper & Row, 1969), 73.
 
 God is an infinite sphere whose centre is everywhere and whose circumference is nowhere.  
 Deus est sphaera infinita cuius centrum est ubique, circumferentia nusquam.  
