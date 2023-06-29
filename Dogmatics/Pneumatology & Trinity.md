@@ -144,4 +144,4 @@ In binding all in one, you are the Holy Spirit.”[^8]
 [^23]: Alister E. McGrath, Christian Theology: An Introduction, second edition (Oxford: Blackwell, 1997), 300.
 [^24]: Wolfhart Pannenberg, Systematic Theology, vol. 1 (Grand Rapids: Eerdmans, 1991), 319.
 [^25]: Hans Urs von Balthasar, The Glory of the Lord: A Theological Aesthetics, Volume 2: Studies in Theological Sty;e: Clerical Styles (San Francisco: Ignatius Press, 1984), 301.
-[^26]: 圣奥古斯丁，《论三位一体》（上海：上海世纪出版集团，出版年），12-13页，周伟驰 译。as cited in Eugene Portalie, A Guide to the Thought of Saint Augustine, Chicago: Henry Regnery Company, 1960, pp.134-135.
+[^26]: 圣奥古斯丁，《论三位一体》（上海：上海世纪出版集团，出版年），12-13页，周伟驰 译。cited in Eugene Portalie, A Guide to the Thought of Saint Augustine, Chicago: Henry Regnery Company, 1960, pp.134-135.

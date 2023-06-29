@@ -31,7 +31,7 @@ God's being itself speaks for His beauty in His revelation.[^22]
 [^1]: Augustine, De Doctrina Christiana (On Christian Doctrine ), trans. J. F. Shaw, in Nicene and Post-Nicene Fathers, First Series: Volume II (Oak Harbor, WA: Logos Research Systems, Inc., 1997), I, 4
 [^2]: Augustine, Confessions. V, xii. 18.
 [^3]: Maurice O’C. Walshe, The Complete Mystical Works of Meister Eckhart (A Herder & Herder Book, 2009), 95.
-[^5]: as cited in Hans Urs von Balthasar, Theo-Drama: Theological Dramatic Theory, Ⅰ. Prologomena, (San Francisco: Ignatius press, 1988), 144.
+[^5]: cited in Hans Urs von Balthasar, Theo-Drama: Theological Dramatic Theory, Ⅰ. Prologomena, (San Francisco: Ignatius press, 1988), 144.
 [^6]: Edwin Curley, The Collected Works of Spinoza , vol. 1 (Princeton, New Jersey: Princeton University Press, 1985), 604.
 [^7]: Edwin Curley, The Collected Works of Spinoza , vol. 1 (Princeton, New Jersey: Princeton University Press, 1985), 329.
 [^10]: Whitehead, Alfred North, Religion in the making, (Cleveland : Meridian Books, 1960, c1954.) 16.

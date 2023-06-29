@@ -125,8 +125,8 @@ R. R. Niebuhr: “When the resurrection of Christ is thought of as a “sacred e
 “d. Our judgement regarding the historicity of the resurrection of Jesus depends not only on examining the individual data (and the related reconstruction of the event) but also on our understanding of reality, of what we regard as possible or impossible prior to any evaluation of the details. In this regard Paul is right that if we do not think the dead can rise in any circumstances, then we cannot regard the resurrection of Jesus as a fact (1 Cor. 15:13), no matter how strong the evidence may be that supports it. We must concede, however, that a judgment of this type rests on a prior dogmatic decision and does not deserve to be called critical (in the sense of the evaluating of the transmitted texts).”[^50]
 
 [^14]: Wolfhart Pannenberg, Systematic Theology, vol. 2, trans. Geoffrey W. Bromiley (Grand Rapids: Eeerdmans, 1994), 283.
-[^16]: D. F. Strauss, The Life of Jesus Critically Examined, trans. George Eliot (London, 1906), 87-89; as cited in James C. Livingston, Modern Christian Thought, vol. 1: The Enlightenment and the Nineteenth Century (Minneapolis: Fortress, 2006), 218.
-[^18]: Rudolf Bultmann, Jesus Christ and Mythology (New York, 1958), 15-16; as cited in James C. Livingston, Modern Christian Thought, vol 2: The Twentieth Century (Minneapolis: Fortress, 2006), 155
+[^16]: D. F. Strauss, The Life of Jesus Critically Examined, trans. George Eliot (London, 1906), 87-89; cited in James C. Livingston, Modern Christian Thought, vol. 1: The Enlightenment and the Nineteenth Century (Minneapolis: Fortress, 2006), 218.
+[^18]: Rudolf Bultmann, Jesus Christ and Mythology (New York, 1958), 15-16; cited in James C. Livingston, Modern Christian Thought, vol 2: The Twentieth Century (Minneapolis: Fortress, 2006), 155
 [^19]: Rudolf Bultmann, Kerygma and Myth: A Theological Debate (New York: Harper & Row, 1961), 36.
 [^20]: Bultmann, Kerygma and Myth, 39-42.
 [^24]: Karl Barth, Church Dogmatics, III.2 (Edinburgh: T&T Clark, 1960), 443.
@@ -142,7 +142,7 @@ R. R. Niebuhr: “When the resurrection of Christ is thought of as a “sacred e
 [^35]: Karl Barth, Church Dogmatics, III.2 (Edinburgh: T&T Clark, 1960), 447.
 [^36]: Karl Barth, Church Dogmatics, III.2 (Edinburgh: T&T Clark, 1960), 442.
 [^38]: McGrath, Christian Theology, 381.
-[^39]: R. R. Niebuhr, Resurrection and Historical Reason (New York, 1957), 87; as cited in James C.
+[^39]: R. R. Niebuhr, Resurrection and Historical Reason (New York, 1957), 87; cited in James C.
 Livingston, Modern Christian Thought, vol 2: The Twentieth Century (Minneapolis: Fortress, 2006), 111.
 [^40]: Wolfhart Pannenberg, Systematic Theology, vol. 2, trans. Geoffrey W. Bromiley (Grand Rapids: Eeerdmans, 1994), 285.
 [^41]: Pannenberg, Systematic Theology, vol. 2, 288.
