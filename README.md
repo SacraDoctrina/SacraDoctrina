@@ -53,6 +53,7 @@ Sacra Doctrina
     * [约伯妻子](./Ketuvim/Job's%20Spouse.md)
     * [koinonia](./Ketuvim/koinonia.md)
 * Book
+    * [今日如何读旧约](./Book/今日如何读旧约.md)
     * [A History of Christian Thought](./Book/A%20History%20of%20Christian%20Thought.md)
     * [Being and Time](./Book/Being%20and%20Time.md)
     * [인문학으로 읽는 기독교이야기](./Book/인문학으로%20읽는%20기독교이야기.md)
