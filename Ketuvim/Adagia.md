@@ -13,6 +13,10 @@
 
 ## Adagia
 
+Si enim comprehendis, non est Deus.
+
+> Augustine’s Sermon 117 in Patrologia Latina (PL), Volume 38(Opera omnia: Volume 5, Issue 1), p. 663.
+
 … Christian doctrine is from first to last a historical construct. Its content rests on the historical revelation of God in the historical figure of Jesus Christ and on the precise evaluation, by historical interpretation alone, of the testimony that early Christian proclamation gives to this figure.
 
 > Wolfhart Pannenberg, *Systematic Theology*, v. 1 (Grand Rapids: Eerdmans, 1991), x.
