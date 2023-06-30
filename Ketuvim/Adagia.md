@@ -15,7 +15,7 @@
 
 Si enim comprehendis, non est Deus. 
 
-> Migne, Jacques Paul, ed. (1841). Patrologia Latina. Vol. 38. p. 663. ISBN 978-0-802-83843-8.
+> Migne, Jacques Paul, ed. (1841). Patrologia Latina. Vol. 38. p. [663]([Title](https://books.google.com/books?id%253D_iZKAAAAcAAJ%2526q%253D%2522si%252Benim%252Bcomprehendis%252C%252Bnon%252Best%252BDeus%2522)). ISBN 978-0-802-83843-8.
 
 … Christian doctrine is from first to last a historical construct. Its content rests on the historical revelation of God in the historical figure of Jesus Christ and on the precise evaluation, by historical interpretation alone, of the testimony that early Christian proclamation gives to this figure.
 
