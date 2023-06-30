@@ -13,9 +13,9 @@
 
 ## Adagia
 
-Si enim comprehendis, non est Deus.
+Si enim comprehendis, non est Deus. 
 
-> Augustine’s Sermon 117 in Patrologia Latina (PL), Volume 38(Opera omnia: Volume 5, Issue 1), p. 663.
+> Migne, Jacques Paul, ed. (1841). Patrologia Latina. Vol. 38. p. 663. ISBN 978-0-802-83843-8.
 
 … Christian doctrine is from first to last a historical construct. Its content rests on the historical revelation of God in the historical figure of Jesus Christ and on the precise evaluation, by historical interpretation alone, of the testimony that early Christian proclamation gives to this figure.
 
