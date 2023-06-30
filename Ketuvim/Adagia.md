@@ -13,7 +13,7 @@
 
 ## Adagia
 
-Si enim comprehendis, non est Deus. 
+Si enim comprehendis, non est Deus.
 
 > Migne, Jacques Paul, ed. (1841). Patrologia Latina. Vol. 38. p. [663](https://books.google.com/books?id=_iZKAAAAcAAJ&q="si+enim+comprehendis,+non+est+Deus"). ISBN 978-0-802-83843-8.
 
