@@ -8,6 +8,8 @@ Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Hi
 
 上帝为什么要将自己启示给人类？ 上帝的启示局限于圣经吗？反而，以圣经来解释上帝则是否又将上帝囚禁在圣经里？
 
+
+
 * 启示与迷信的区分
 
 * 启示的领域(locus, source)
@@ -52,7 +54,7 @@ Jonathan Edwards:
 
 Hodge: "Faith in the Scriptures as the word of God is faith in their **plenary inspiration**. That is, the persuasion that they are not product of the fallible intellect of man, but of the infallible intellect of God. ... In saying that the Bible is the word of God, we mean that he is its author; that he says whatever the Bible says; that every thing which the Bible affirms to be true is true. ... What the Scriptures teach is to be believed, not on the authority of Moses or the prophets, or of the apostles and evangelists, but on the authority of God, who used the sacred writers as his organs of communication. The Bible is the product of one mind." (Livingston, 1:308)
 
-"It [Inspiration] means, first, that all the books of Scriptures are equally inspired. All alike are infallible in what they teach. And secondly, that inspiration extends to all the contents of these several books. It is not confined to moral and religious truths, but extends to the statements of facts, whether scientific, historical, or geographical. It is not confined to those facts the importance of which is obvious, or which are involved in matters of doctrine. It extends to everything which any sacred writer asserts to be true."[^31]
+"It [Inspiration] means, first, that **all the books of Scriptures are equally inspired**（强调分量：66卷！）. All alike are infallible in what they teach. And secondly, that **inspiration extends to all the contents of these several books**（强调次元：各个领域）. It is not confined to moral and religious truths, but extends to the statements of facts, whether scientific, historical, or geographical. It is not confined to those facts the importance of which is obvious, or which are involved in matters of doctrine. It extends to everything which any sacred writer asserts to be true."[^31]
 
 “The Bible is to the theologian what nature is to the man of science. It is his store-house of facts; and his method of ascertaining what the Bible teaches, is the same as that which the natural philosopher adopts to ascertain what nature teaches.”[^32]
 
