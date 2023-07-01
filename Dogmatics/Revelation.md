@@ -6,6 +6,8 @@
 
 Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Himself as the Lord and according to Scripture this signifies for the concept of revelation that **God Himself** in unimpaired unity yet also in unimpaired distinction is **Revealer**, **Revelation**, and **Revealedness**.”(Church Dogmatics, I.1, 295)
 
+上帝为什么要将自己启示给人类？
+
 * 启示与迷信的区分
 
 * 启示的领域(locus, source)
