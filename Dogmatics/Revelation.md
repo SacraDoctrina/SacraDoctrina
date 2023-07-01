@@ -12,6 +12,8 @@ Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Hi
 
 * 启示的领域(locus, source)
 
+“하나님이 자신을 계시하시기에, 인간은 하나님의 계시를 통제할 수는 없다. 계시와 하나님 자신의 이러한 존재론적 상응성은 계시에 대한 어떠한 방법론적 논의도 항상 잠정적인 방법론적 성찰에 머물 수 없음을 보여준다. 따라서 아래의 계시의 장에 대한 논의는 이러한 한계를 지닌 불가피한 예비적 성찰임을 기억해야 할 것이다.”
+
     1. 耶稣基督与圣灵
     2. 自然的秩序与美
     3. 圣经
@@ -32,7 +34,7 @@ Tillich: “Christianity claims to be based on the revelation in Jesus as the Ch
 * 美的类比
 
 Hans Urs von Balthasar:
-    
+
 "It is easy to note the differences between the person affected by natural beauty and the one seized by the beauty of Christ; it is less easy to see what they have in common without reducing their experiences to psychological categories."[^3]
 
 “We can post as many question marks and warning signs as we will all along the length and breadth of this analogy, but they will only apply to the ever-present possibility of misusing the analogy, and not to its rightful use.”(ibid., 36-7) “Even a dangerous road remains a road ...”(ibid., 38)
