@@ -11,6 +11,7 @@ Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Hi
 * 启示与迷信的区分
 
 * 启示的领域(locus, source)
+
     1. 耶稣基督与圣灵
     2. 自然的秩序与美
     3. 圣经
@@ -139,6 +140,8 @@ heterodoxy = hetero / wrong + doxa / doctrine
 ## 结论：对上帝真理的渴望并不局限于过去的文字。
 
 圣经与其被视为终极的指导或者所谓意义上的启示，反而更是可以被视为信仰的表现结果。毕竟，圣经的正经化就是教会这一信仰共同体的认信。
+
+“언제나 항상 변하지 않고 옳고 정확한 진리의 담지자가 되려는 욕구는 사실 자신의 사유를 절대화시키고자 하는 우상의 욕구에 다름 아니다. 신학은 용감하게 불완전성과 불안전성을 은총의 조건으로 수용하여야 한다. 신학이 스스로를 구원하는 것이 아니며, 구원은 하나님의 몫이다. 신학자는 최선을 다해 자신의 삶의 상황과 의미를 증언하려고 노력할 수 있을 뿐이다.”
 
 
 [^1]: Paul Tillich, Systematic Theology, vol. 1 (Chicago: University of Chicago Press, 1951), 132-133.
