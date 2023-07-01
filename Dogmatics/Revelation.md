@@ -8,8 +8,6 @@ Karl Barth: “God’s Word is God Himself in His revelation. For God reveals Hi
 
 上帝为什么要将自己启示给人类？ 上帝的启示局限于圣经吗？反而，以圣经来解释上帝则是否又将上帝囚禁在圣经里？
 
-
-
 * 启示与迷信的区分
 
 * 启示的领域(locus, source)
@@ -69,7 +67,7 @@ be expected in imperfect copies of ancient writings, from the fact that the orig
 
 * 针对原教旨主义的批判：耶稣，奥古斯丁，路德
 
-“무엇보다도, 예수는 성서를 비판하는데 주저하지 않았다. 하나님의 말씀 곧 성서의 최고의 진술과의 관계에서 예수는 다 른성서의 부분을 해석하였던 것이다. ... 곧 그것은 하나님에 대한 사랑과 이웃에 대한 사랑이 라는 두 위대한 계명이다. 다른 모든 것은 이것의 빛 아래서 이해되어야 한다.”[^37]
+“무엇보다도, 예수는 성서를 비판하는데 주저하지 않았다. 하나님의 말씀 곧 성서의 최고의 진술과의 관계에서 예수는 다른성서의 부분을 해석하였던 것이다. ... 곧 그것은 하나님에 대한 사랑과 이웃에 대한 사랑이라는 두 위대한 계명이다. 다른 모든 것은 이것의 빛 아래서 이해되어야 한다.”[^37]
 
 “Whoever, then, appears in his own opinion to have comprehended the Sacred Scriptures, or even some part of them, yet does not build up with that knowledge the twofold love of God and his neighbor, ‘has not yet known as he ought to know’ [1 Cor. 8:2]. Yet, if anyone has derived from them an idea that may be useful to him in building up this love, but has not expressed by it what the author whom he is reading demonstrably intended in that passage, he is not erring dangerously nor lying at all.”[^38]
 
@@ -139,6 +137,8 @@ heterodoxy = hetero / wrong + doxa / doctrine
 * Pannenberg
 
 ## 结论：对上帝真理的渴望并不局限于过去的文字。
+
+圣经与其被视为终极的指导或者所谓意义上的启示，反而更是可以被视为信仰的表现结果。毕竟，圣经的正经化就是教会这一信仰共同体的认信。
 
 
 [^1]: Paul Tillich, Systematic Theology, vol. 1 (Chicago: University of Chicago Press, 1951), 132-133.
