@@ -77,4 +77,4 @@ Theology, in its attempt to analyze, criticize, and reconstruct the image/concep
 
 to this science alone belongs that whereby saving faith is begotten, nourished, protected and strengthened.
 
-> Summa Theologiae https://www.newadvent.org/summa/1001.htm#article2
+> [Summa Theologiae](https://www.newadvent.org/summa/1001.htm#article2)
