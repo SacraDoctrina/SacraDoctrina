@@ -74,3 +74,7 @@ The dance reflects the movement of God, which also moves us upon the earth. The 
 Theology, in its attempt to analyze, criticize, and reconstruct the image/concept of God, is an expression of the continuing activity of the human imagination seeking to create a framework of interpretation which can provide overall orientation for human life; theology is, thus, essentially an activity of imaginative construction.
 
 > Gordon D. Kaufman, “*Theology as Imaginative Construction*,” in The Journal of the American Academy of Religion, 50 (Mr 1982), 77.
+
+to this science alone belongs that whereby saving faith is begotten, nourished, protected and strengthened.
+
+> Summa Theologiae https://www.newadvent.org/summa/1001.htm#article2
