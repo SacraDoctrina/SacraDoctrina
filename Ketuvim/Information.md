@@ -22,6 +22,10 @@
 * [LUX: Yale Collections Discovery](https://lux.collections.yale.edu/)
 * [Safari Books Online](https://www.oreilly.com/)
 
+## Bible 
+
+* [Septuagint](https://septuagint.bible)
+
 ## Encyclopedia
 
 * [SEP](https://plato.stanford.edu/index.html)
