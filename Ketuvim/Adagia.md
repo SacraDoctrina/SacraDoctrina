@@ -78,3 +78,13 @@ Theology, in its attempt to analyze, criticize, and reconstruct the image/concep
 to this science alone belongs that whereby saving faith is begotten, nourished, protected and strengthened.
 
 > [Summa Theologiae](https://www.newadvent.org/summa/1001.htm#article2)
+
+## Memento Mori
+
+**Memento Mori**: remember that you [have to] die.
+
+**Carpe diem**: seize the day
+
+**Tempus fugit**: time flies
+
+**Sic transit gloria mundi**: Thus passes the glory of the world.
