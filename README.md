@@ -7,29 +7,29 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
 ## Munus Theologicum
 – Fides quaerens intellectum –
 
-- sapientia: Right Relationship！
+- **sapientia**: Right Relationship！
 
-- scientia: Right Doctrine！
+- **scientia**: Right Doctrine！
 
-- orthopraxis: Right Action！
+- **orthopraxis**: Right Action！
 
 ## Fontes
 – nani gigantum humeris insidentes –
 
-- Scriptura
-- Ratio
-- Traditio
-- Experientia
+- **Scriptura**
+- **Ratio**
+- **Traditio**
+- **Experientia**
 
 ## Disciplina
 
-- Biblica: Canon
+- **Biblica**: Canon
 
-- Historica: Dogma
+- **Historica**: Dogma
 
-- Systematica: Philosophy
+- **Systematica**: Philosophy
 
-- Moderna: Experience
+- **Moderna**: Experience
 
 ## Sacra Doctrina
 
