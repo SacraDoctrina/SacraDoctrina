@@ -1,6 +1,6 @@
 # SacraDoctrina
 
-## Si enim comprehendis, non est Deus.
+**Si enim comprehendis, non est Deus.**
 
 Magis tamen est speculativa quam practica, quia principalius agit de rebus divinis quam de actibus humanis; de quibus agit secundum quod per eos ordinatur homo ad perfectam Dei cognitionem, in qua aeterna beatitudo consistit.<ST.I.Q1.A4.C.2>
 
