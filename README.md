@@ -36,7 +36,12 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
 
 ## Sacra Doctrina
 
-### Bible Criticism
+* Biblical Theology
+    * [Bible Criticism](Biblical%20Criticism.md)
+
+* Systematic Theology
+
+* Practical Theology
 
 huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur.<ST.I.Q1.A2.SC>
 
