@@ -22,7 +22,6 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
 - Experientia
 
 ## Disciplina
-– Sacra Doctrina –
 
 - Biblica: Canon
 
