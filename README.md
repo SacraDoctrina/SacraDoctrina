@@ -40,6 +40,7 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
     * [Bible Criticism](Biblical%20Criticism.md)
 
 * Systematic Theology
+    * [Hermeneutics]
 
 * Practical Theology
 
