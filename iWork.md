@@ -12,16 +12,11 @@
     - Github
     - VS Code
 
-- Google Workspace
-    - Gmail
-    - Google Calendar
-    - Google Drive
-
 - Document
     - Google Drive
     - OneDrive
 
-- Creative Design
-
+- Creative Studio
     - Final Cut Pro
     - Adobe Lightroom
+    - Canva
