@@ -37,7 +37,8 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
 ## Sacra Doctrina
 
 * Biblical Theology
-    * [Bible Criticism](Biblical%20Criticism.md)
+    * [Structure Analysis](./Structure%20Analysis.md)
+    * [Bible Criticism](./Biblical%20Criticism.md)
 
 * Systematic Theology
     * [Hermeneutics]
