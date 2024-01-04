@@ -3,7 +3,6 @@
 - Mail
     - [Gmail](https://mail.google.com)
     - [Outlook](https://outlook.com)
-    - [Proton](https://proton.me/)
 
 - Calendar
     - [Google Calendar](https://calendar.google.com)
