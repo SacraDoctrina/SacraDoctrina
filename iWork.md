@@ -1,4 +1,4 @@
-# intellegentia
+# Hypomnema
 
 - Mail
     - Gmail

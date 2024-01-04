@@ -48,9 +48,9 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
 
 * Adagia
 
-## Intellegentia
+## Hypomnema
 
-* intellegentia
+* [iWork](./iWork.md)
 
 huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur.<ST.I.Q1.A2.SC>
 
