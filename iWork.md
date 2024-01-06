@@ -17,6 +17,9 @@
 
 - Bible
   - [AccordanceBible](https://www.accordancebible.com/)
+  - [Logos](https://www.logos.com/)
+  - Bible: New Revised Standard Version with Strong's Numbers
+  - Bible: Chinese Revised Union Version
 
 - Creative Studio
   - Final Cut Pro
