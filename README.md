@@ -46,6 +46,7 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
 * Practical Theology
   * [Koinonia](./Koinonia.md)
   * [Sacrare](./Sacrare.md)
+  * [Kairos]
 
 * Adagia
 
