@@ -12,6 +12,7 @@
 - Cloud Platform
   - [Github](https://github.com/)
   - [VS Code](https://code.visualstudio.com/)
+  - [NameSilo](https://www.namesilo.com/)
   - [Cloudflare](https://www.cloudflare.com/)
 
 - Bible
