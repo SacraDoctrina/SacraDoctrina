@@ -1,19 +1,20 @@
 # iWork
 
-- Mail
-  - [Gmail](https://mail.google.com)
-  - [Outlook](https://outlook.com)
-
-- Calendar
-  - [Google Calendar](https://calendar.google.com)
+- Office
+  - [Google Workspace](https://workspace.google.com/)
+    - [Gmail](https://mail.google.com)
+    - [Google Drive](https://www.google.com/drive/)
+    - [Google Calendar](https://calendar.google.com)
+  - [Microsoft 365](https://www.office.com/)
+    - [Outlook](https://outlook.com)
+    - [OneDrive](https://onedrive.live.com/)
 
 - Document
   - [Github](https://github.com/)
   - [VS Code](https://code.visualstudio.com/)
 
-- Storage
-  - [Google Drive](https://www.google.com/drive/)
-  - [OneDrive](https://onedrive.live.com/)
+- CDN
+  - [Cloudflare](https://www.cloudflare.com/)
 
 - Bible
   - [AccordanceBible](https://www.accordancebible.com/)
