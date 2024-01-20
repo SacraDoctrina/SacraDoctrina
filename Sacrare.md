@@ -43,7 +43,7 @@
 
 1. Presentation
 
-    - MS Office / Google Slide / ProPresenter / Keynote
+    - MS Office / [Google Slide](https://www.google.com/slides/about) / [ProPresenter](https://renewedvision.com/propresenter/) (+ [mobile-apps](https://renewedvision.com/propresenter/mobile-apps/)) / Keynote
 
 2. 调音台
 
