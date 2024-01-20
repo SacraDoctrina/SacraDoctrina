@@ -9,11 +9,9 @@
     - [Outlook](https://outlook.com)
     - [OneDrive](https://onedrive.live.com/)
 
-- Document
+- Cloud Platform
   - [Github](https://github.com/)
   - [VS Code](https://code.visualstudio.com/)
-
-- CDN
   - [Cloudflare](https://www.cloudflare.com/)
 
 - Bible
