@@ -11,6 +11,7 @@
   - [Microsoft 365](https://www.office.com/)
     - [Outlook](https://outlook.com)
     - [OneDrive](https://onedrive.live.com/)
+    - [Azure DevOps](https://dev.azure.com/)
     - [MS Learn](https://learn.microsoft.com/zh-cn/)
 
 - Cloud Platform
