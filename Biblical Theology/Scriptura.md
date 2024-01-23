@@ -8,7 +8,7 @@
 
 ## 背诵经文
 
-[Genesis 1.1] In the beginning when God createda the heavens and the earth
+[Genesis 1.1] In the beginning when God createda the heavens and the earth.
 
 [Exodus 19:5-6] 5 Now therefore, if you obey my voice and keep my covenant, you shall be my treasured possession out of all the peoples. Indeed, the whole earth is mine, 6 but you shall be for me a priestly kingdom and a holy nation. These are the words that you shall speak to the Israelites.”
 
