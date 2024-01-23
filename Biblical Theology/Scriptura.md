@@ -6,8 +6,6 @@
 
 [2 cor 11:5] I think that I am not in the least inferior to these super-apostles.
 
-
-
 ## 背诵经文
 
 [Genesis 1.1] In the beginning when God createda the heavens and the earth
