@@ -41,3 +41,32 @@
 [Song 8:6] Set me as a seal upon your heart, as a seal upon your arm; for love is strong as death, passion fierce as the grave. Its flashes are flashes of fire, a raging flame.
 
 [Isaiah 61:1] The spirit of the Lord GOD is upon me, because the LORD has anointed me; he has sent me to bring good news to the oppressed, to bind up the brokenhearted, to proclaim liberty to the captives, and release to the prisoners;
+
+[Jeremiah 20:9] If I say, “I will not mention him, or speak any more in his name,” then within me there is something like a burning fire shut up in my bones; I am weary with holding it in, and I cannot.
+
+[Ezekiel 18:20] The person who sins shall die. A child shall not suffer for the iniquity of a parent, nor a parent suffer for the iniquity of a child; the righteousness of the righteous shall be his own, and the wickedness of the wicked shall be his own.
+
+[Daniel 12:3] Those who are wise shall shine like the brightness of the sky, and those who lead many to righteousness, like the stars forever and ever. 
+
+[Micah 6:8] He has told you, O mortal, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?
+
+[Matthew 4:17] From that time Jesus began to proclaim, “Repent, for the kingdom of heaven has come near.”
+
+[Matthew 28:19-20] 19 Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything that I have commanded you. And remember, I am with you always, to the end of the age.”
+
+[Mark 10:45] For the Son of Man came not to be served but to serve, and to give his life a ransom for many.
+
+[Luke 4:18-19] 18 “The Spirit of the Lord is upon me, because he has anointed me to bring good news to the poor. He has sent me to proclaim release to the captives and recovery of sight to the blind, to let the oppressed go free, 19 to proclaim the year of the Lord’s favor.”
+
+[Luke 15:7] Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance.
+
+[John 3:16-17] 16 For God so loved the world that he gave his only Son, so that everyone who believes in him may not perish but may have eternal life. 17 Indeed, God did not send the Son into the world to condemn the world, but in order that the world might be saved through him.
+
+[John 20:31] But these are written so that you may come to believea that Jesus is the Messiah,b the Son of God, and that through believing you may have life in his name.
+
+[Acts 1:8] But you will receive power when the Holy Spirit has come upon you; and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.
+
+[Romans 1:17] For in it the righteousness of God is revealed through faith for faith; as it is written, “The one who is righteous will live by faith.”
+
+[Romans 8:26] Likewise the Spirit helps us in our weakness; for we do not know how to pray as we ought, but that very Spirit intercedesa with sighs too deep for words.
+
