@@ -70,3 +70,32 @@
 
 [Romans 8:26] Likewise the Spirit helps us in our weakness; for we do not know how to pray as we ought, but that very Spirit intercedesa with sighs too deep for words.
 
+[1Corinthians 6:19-20] 19 Or do you not know that your body is a templea of the Holy Spirit within you, which you have from God, and that you are not your own? 20 For you were bought with a price; therefore glorify God in your body.
+
+[2Corinthians 13:13] The grace of the Lord Jesus Christ, the love of God, and the communion ofa the Holy Spirit be with all of you.
+
+[Galatians 2:20] and it is no longer I who live, but it is Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God,a who loved me and gave himself for me.
+
+[Ephesians 4:11-12] 11 The gifts he gave were that some would be apostles, some prophets, some evangelists, some pastors and teachers, 12 to equip the saints for the work of ministry, for building up the body of Christ,
+
+[Philippians 2:6-7] 6 who, though he was in the form of God, did not regard equality with God as something to be exploited, 7 but emptied himself, taking the form of a slave, being born in human likeness. And being found in human form,
+
+[Galatians 3:1] You foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly exhibited as crucified!
+
+[1Thessalonians 5:16-18] 16 Rejoice always, 17 pray without ceasing, 18 give thanks in all circumstances; for this is the will of God in Christ Jesus for you.
+
+[1Timothy 2:1-2] 1 First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for everyone, 2 for kings and all who are in high positions, so that we may lead a quiet and peaceable life in all godliness and dignity.
+
+[Philemon 16] no longer as a slave but more than a slave, a beloved brother—especially to me but how much more to you, both in the flesh and in the Lord.
+
+[Hebrews 11:1-2] 1 Now faith is the assurance of things hoped for, the conviction of things not seen. 2 Indeed, by faitha our ancestors received approval.
+
+[James 2:26] For just as the body without the spirit is dead, so faith without works is also dead.
+
+[1Peter 4:16] Yet if any of you suffers as a Christian, do not consider it a disgrace, but glorify God because you bear this name.
+
+[1John 4:10] In this is love, not that we loved God but that he loved us and sent his Son to be the atoning sacrifice for our sins.
+
+[2John 7] Many deceivers have gone out into the world, those who do not confess that Jesus Christ has come in the flesh; any such person is the deceiver and the antichrist!
+
+[Revelation 22:12-13] 12 “See, I am coming soon; my reward is with me, to repay according to everyone’s work. 13 I am the Alpha and the Omega, the first and the last, the beginning and the end.”
