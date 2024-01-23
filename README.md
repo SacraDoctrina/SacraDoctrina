@@ -40,6 +40,7 @@
   * [Sacrare](./Practical%20Theology/Sacrare.md)
   * [Koinonia](./Practical%20Theology/Koinonia.md)
   * [Kairos](./Practical%20Theology/Kairos.md)
+  * [Hermeneia](./Practical%20Theology/Hermeneia.md)
 
 * Structure Analysis
   * [传道书](./Structure%20Analysis/传道书.md)
