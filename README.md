@@ -40,8 +40,6 @@ Magis tamen est speculativa quam practica, quia principalius agit de rebus divin
   * [Sacrare](./Sacrare.md)
   * [Kairos](./Kairos.md)
 
-* Adagia
-
 ## Hypomnema
 
 * [iWork](./iWork.md)
