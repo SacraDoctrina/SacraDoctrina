@@ -4,7 +4,7 @@
 ## Experientia
 [is 1:16-17] 16 Wash yourselves; make yourselves clean; remove the evil of your doings from before my eyes; cease to do evil, 17 learn to do good; seek justice, rescue the oppressed, defend the orphan, plead for the widow.
 
-[2 cor 11:5] I think that I am not in the least inferior to these super-apostles.
+[2cor 11:5] I think that I am not in the least inferior to these super-apostles.
 
 ## 背诵经文
 
@@ -22,15 +22,15 @@
 
 [Judges 8:23] Gideon said to them, “I will not rule over you, and my son will not rule over you; the LORD will rule over you.
 
-[2 Samuel 7:11-13] 11 from the time that I appointed judges over my people Israel; and I will give you rest from all your enemies. Moreover the LORD declares to you that the LORD will make you a house. 12 When your days are fulfilled and you lie down with your ancestors, I will raise up your offspring after you, who shall come forth from your body, and I will establish his kingdom. 13 He shall build a house for my name, and I will establish the throne of his kingdom forever.
+[2Samuel 7:11-13] 11 from the time that I appointed judges over my people Israel; and I will give you rest from all your enemies. Moreover the LORD declares to you that the LORD will make you a house. 12 When your days are fulfilled and you lie down with your ancestors, I will raise up your offspring after you, who shall come forth from your body, and I will establish his kingdom. 13 He shall build a house for my name, and I will establish the throne of his kingdom forever.
 
-[1 Kings 18:21] Elijah then came near to all the people, and said, “How long will you go limping with two different opinions? If the LORD is God, follow him; but if Baal, then follow him.” The people did not answer him a word.
+[1Kings 18:21] Elijah then came near to all the people, and said, “How long will you go limping with two different opinions? If the LORD is God, follow him; but if Baal, then follow him.” The people did not answer him a word.
 
-[2 Kings 22:13] “Go, inquire of the LORD for me, for the people, and for all Judah, concerning the words of this book that has been found; for great is the wrath of the LORD that is kindled against us, because our ancestors did not obey the words of this book, to do according to all that is written concerning us.”
+[2Kings 22:13] “Go, inquire of the LORD for me, for the people, and for all Judah, concerning the words of this book that has been found; for great is the wrath of the LORD that is kindled against us, because our ancestors did not obey the words of this book, to do according to all that is written concerning us.”
 
-[1 Chronicles 9:1] So all Israel was enrolled by genealogies; and these are written in the Book of the Kings of Israel. And Judah was taken into exile in Babylon because of their unfaithfulness.
+[1Chronicles 9:1] So all Israel was enrolled by genealogies; and these are written in the Book of the Kings of Israel. And Judah was taken into exile in Babylon because of their unfaithfulness.
 
-[2 Chronicles 31:20-21] 20 Hezekiah did this throughout all Judah; he did what was good and right and faithful before the LORD his God. 21 And every work that he undertook in the service of the house of God, and in accordance with the law and the commandments, to seek his God, he did with all his heart; and he prospered.
+[2Chronicles 31:20-21] 20 Hezekiah did this throughout all Judah; he did what was good and right and faithful before the LORD his God. 21 And every work that he undertook in the service of the house of God, and in accordance with the law and the commandments, to seek his God, he did with all his heart; and he prospered.
 
 [Ezra 7:27-28] 27 Blessed be the LORD, the God of our ancestors, who put such a thing as this into the heart of the king to glorify the house of the LORD in Jerusalem, 28 and who extended to me steadfast love before the king and his counselors, and before all the king’s mighty officers. I took courage, for the hand of the LORD my God was upon me, and I gathered leaders from Israel to go up with me.
 
