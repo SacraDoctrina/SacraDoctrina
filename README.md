@@ -1,4 +1,4 @@
-# SacraDoctrina
+# Sacra Doctrina
 
 ## **Si enim comprehendis, non est Deus.**
 
