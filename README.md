@@ -4,10 +4,13 @@
 
 “不过，神圣学问与其说是实践的，毋宁说是思辨的。因为它更多地相关于上帝的事物而非人的行为，尽管它实际上也处理人的行为，但这却只是为了使人获得关于上帝的完满的知识的缘故，而人的真福也正在于此。” <ST.I.Q1.A4.C.2>
 
+[//]: # (Magis tamen est speculativa quam practica, quia principalius agit de rebus divinis quam de actibus humanis; de quibus agit secundum quod per eos ordinatur homo ad perfectam Dei cognitionem, in qua aeterna beatitudo consistit.)
+
 ## Munus Theologicum
 <Fides quaerens intellectum>
 
-- **sapientia**: Right Relationship!
+- **sapientia**: Right Relationship! 
+[//]: # (divinorum cognitio [Augustine. (De Trin. xii, 14.)])
 - **scientia**: Right Doctrine!
 - **orthopraxis**: Right Action!
 
@@ -27,6 +30,8 @@
 - **Moderna**: Experience
 
 ## Sacra Doctrina
+
+[//]: # (huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur. [ST.I.Q1.A2.SC])
 
 * Biblical Theology
   * [Biblecal Criticism](./Biblical%20Theology/Biblical%20Criticism.md)
