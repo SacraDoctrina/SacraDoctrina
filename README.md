@@ -9,9 +9,7 @@
 ## Munus Theologicum
 <Fides quaerens intellectum>
 
-- **sapientia**: Right Relationship! 
-
-[//]: # (divinorum cognitio Augustine. De Trin. xii, 14.)
+- **sapientia**: Right Relationship! (divinorum cognitio Augustine. *De Trin*. xii, 14.)
 - **scientia**: Right Doctrine!
 - **orthopraxis**: Right Action!
 
