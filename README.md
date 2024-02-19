@@ -32,26 +32,29 @@
 
 [//]: # (huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur. [ST.I.Q1.A2.SC])
 
-* Biblical Theology
-  * [Biblecal Criticism](./Biblical%20Theology/Biblical%20Criticism.md)
-  * [Scriptura](./Biblical%20Theology/Scriptura.md)
+- BDS
+  - [항상 함께 있으리라](./BDS/뮤지컬%20성극%20항상%20함께%20있으리라.md)
 
-* Systematic Theology
-  * [Hermeneutics]
-  * [Criticism of Religion](./Systematic%20Theology/Criticism%20of%20Religion.md)
+- Biblical Theology
+  - [Biblecal Criticism](./Biblical%20Theology/Biblical%20Criticism.md)
+  - [Scriptura](./Biblical%20Theology/Scriptura.md)
 
-* Practical Theology
-  * [Sacrare](./Practical%20Theology/Sacrare.md)
-  * [Koinonia](./Practical%20Theology/Koinonia.md)
-  * [Kairos](./Practical%20Theology/Kairos.md)
-  * [Hermeneia](./Practical%20Theology/Hermeneia.md)
+- Systematic Theology
+  - [Hermeneutics]
+  - [Criticism of Religion](./Systematic%20Theology/Criticism%20of%20Religion.md)
 
-* Structure Analysis
-  * [传道书](./Structure%20Analysis/传道书.md)
+- Practical Theology
+  - [Sacrare](./Practical%20Theology/Sacrare.md)
+  - [Koinonia](./Practical%20Theology/Koinonia.md)
+  - [Kairos](./Practical%20Theology/Kairos.md)
+  - [Hermeneia](./Practical%20Theology/Hermeneia.md)
+
+- Structure Analysis
+  - [传道书](./Structure%20Analysis/传道书.md)
 
 ## Hypomnema
 
-* [iWork](./iWork.md)
+- [iWork](./iWork.md)
 
 “惟有藉这门科学，信仰才得以萌生、培育、保护，并臻于坚强。” <ST.I.Q1.A2.SC>
 
