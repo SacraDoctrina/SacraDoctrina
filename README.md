@@ -33,7 +33,7 @@
 [//]: # (huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur. [ST.I.Q1.A2.SC])
 
 - BDS
-  - [항상 함께 있으리라](./BDS/뮤지컬%20성극%20항상%20함께%20있으리라.md)
+  - [성경암송](./BDS/성경암송.md)
 
 - Biblical Theology
   - [Biblecal Criticism](./Biblical%20Theology/Biblical%20Criticism.md)
